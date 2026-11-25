@@ -2,7 +2,7 @@
  * Neha Rander's Fashion Attire — Lookbook & Line Sheet Configuration
  */
 window.RANDER_CATALOG_CONFIG = {
-  brandTitle: "Neha Rander's Fashion Attire",
+  brandTitle: "Neha Artistry Hub",
   editionLine: "2026 Studio Archive · Hand-Painted Wearable Art",
   leadStatement:
     "Each saree, co-ord set, blouse, and shirt is painted individually by hand—an intimate archive curated for discerning clients, stylists, and boutique buyers.",
