@@ -1,0 +1,1 @@
+window.RANDER_EMBEDDED_THUMBS = {};

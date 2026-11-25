@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Neha Rander's Fashion Attire — Lookbook &amp; Catalog</title>
+  <meta
+    name="description"
+    content="Official digital lookbook of Neha Rander's Fashion Attire—hand-painted sarees, co-ord sets, blouses, shirts, kurtis, and more."
+  />
+
+  <!-- Set initial IST light/dark theme before first paint to prevent flash -->
+  <script>
+    (function () {
+      try {
+        var saved = localStorage.getItem("rander_theme_pref");
+        if (saved === "light" || saved === "dark") {
+          document.documentElement.setAttribute("data-theme", saved);
+          return;
+        }
+        var now = new Date();
+        var istMins = (now.getUTCHours() * 60 + now.getUTCMinutes() + 330) % 1440;
+        var isDay = istMins >= 360 && istMins < 1110; // 06:00 – 18:29 IST
+        document.documentElement.setAttribute("data-theme", isDay ? "light" : "dark");
+      } catch (e) {}
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Live Hand-Painted Brushstroke Canvas (Ambient Atelier Background) -->
+  <canvas id="atelierCanvas" class="atelier-canvas" aria-hidden="true"></canvas>
+
+  <!-- Masthead -->
+  <header class="masthead" id="top">
+    <div class="container masthead-row">
+      <a href="#top" class="brand-lockup">
+        Neha Rander's <em>Fashion</em> Attire
+      </a>
+
+      <div class="masthead-controls">
+        <!-- Auto-IST Theme Cycle Control (Auto IST -> Daylight -> Evening) -->
+        <button
+          type="button"
+          class="theme-pill"
+          id="themeToggleBtn"
+          aria-label="Switch theme mode (currently following India Standard Time)"
+          title="Auto-switches with India Standard Time (6:00 AM–6:30 PM Light · 6:30 PM–6:00 AM Dark). Click to override."
+        >
+          <span id="themeIcon" aria-hidden="true"></span>
+          <span id="themeModeLabel">Auto IST</span>
+          <span class="theme-ist-time" id="istClock">--:-- IST</span>
+        </button>
+
+        <a
+          href="#"
+          class="masthead-btn social-btn social-instagram"
+          data-social="instagram"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Follow on Instagram"
+          title="Open Instagram page"
+        >
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+            <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+            <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+          </svg>
+          <span>Instagram</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Editorial Opening Spread (No eyebrow/kicker above heading; heading carries full weight) -->
+  <section class="opening-spread">
+    <div class="container opening-grid">
+      <div>
+        <h1 class="opening-title">
+          Every Garment, an
+          <em class="brush-accent-word">Original<svg class="brush-underline-svg" viewBox="0 0 240 22" fill="none" preserveAspectRatio="none" aria-hidden="true"><path class="brush-path-main" d="M4 15.5C44 9.5 118 5.8 235 11.2" stroke="currentColor" stroke-width="4.2" stroke-linecap="round"/><path class="brush-path-wisp" d="M18 19.2C78 14.4 156 12.2 222 15.4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/></svg></em>
+          Canvas
+        </h1>
+        <p class="opening-statement" id="leadStatement">
+          Each saree, co-ord set, blouse, and shirt is painted individually by hand—an intimate archive curated for discerning clients, stylists, and boutique buyers.
+        </p>
+
+        <div class="opening-actions">
+          <a href="#lookbook" class="btn-primary">Explore Lookbook</a>
+        </div>
+      </div>
+
+      <!-- Gallery-Matted Editorial Campaign Triptych -->
+      <div class="campaign-triptych" id="campaignTriptych" aria-label="Featured looks"></div>
+    </div>
+  </section>
+
+  <!-- Visual Collection Runway Index -->
+  <section class="runway-section" aria-label="Collections index">
+    <div class="container">
+      <div class="runway-header">
+        <h2 class="runway-heading">Collections</h2>
+        <p class="runway-note">Select any line to filter the lookbook</p>
+      </div>
+      <div class="runway-strip" id="runwayStrip" role="list"></div>
+    </div>
+  </section>
+
+  <!-- Sticky Toolbar (Single-row Multi-Select Category Dropdown + Search) -->
+  <div id="toolbarSentinel" aria-hidden="true"></div>
+  <div id="toolbarSpacer" aria-hidden="true"></div>
+  <div class="toolbar-sticky" id="lookbook">
+    <div class="container toolbar-row">
+      <!-- Multi-Select Category Filter Dropdown -->
+      <div class="cat-dropdown" id="categoryDropdown">
+        <button
+          type="button"
+          class="cat-dropdown-trigger"
+          id="catDropdownBtn"
+          aria-haspopup="listbox"
+          aria-expanded="false"
+          aria-controls="catDropdownMenu"
+        >
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+          </svg>
+          <span class="cat-dropdown-label" id="catDropdownLabel">All Collections</span>
+          <svg class="cat-dropdown-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+
+        <div class="cat-dropdown-menu" id="catDropdownMenu" role="listbox" aria-multiselectable="true" hidden>
+          <div class="cat-dropdown-list" id="catDropdownList"></div>
+          <div class="cat-dropdown-foot">
+            <button type="button" class="cat-foot-link" id="catResetBtn">Select All</button>
+            <button type="button" class="cat-foot-done" id="catDoneBtn">Done</button>
+          </div>
+        </div>
+      </div>
+
+      <button type="button" class="clear-cats-btn" id="clearCatsInlineBtn" disabled>
+        Clear All
+      </button>
+
+      <div class="search-box">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <label for="searchInput" class="sr-only">Filter by category or style code</label>
+        <input
+          type="search"
+          id="searchInput"
+          class="search-input"
+          placeholder="Search style code (e.g. SAR-01) or category..."
+          autocomplete="off"
+        />
+        <button type="button" id="searchClear" class="search-clear" aria-label="Clear search">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <span class="showing-count" id="showingCount"></span>
+    </div>
+  </div>
+
+  <!-- Main Grouped Category Sections -->
+  <main class="catalog-main">
+    <div class="container" id="catalogContainer"></div>
+  </main>
+
+  <!-- Editorial Footer -->
+  <footer class="catalog-footer">
+    <div class="container">
+      <div class="footer-top">
+        <div class="footer-brand">Neha Rander's <em>Fashion</em> Attire</div>
+        <div class="footer-social">
+          <a
+            href="#"
+            class="masthead-btn social-btn social-instagram"
+            data-social="instagram"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Follow on Instagram"
+          >
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+              <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+              <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+            </svg>
+            <span>Instagram</span>
+          </a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; <span id="footerYear"></span> Neha Rander's Fashion Attire</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Full-Screen Gallery Lightbox with Filmstrip & 2x Brushwork Zoom -->
+  <div class="lightbox-backdrop" id="lightboxBackdrop" role="dialog" aria-modal="true" aria-label="Look preview" hidden>
+    <div class="lightbox-topbar">
+      <div class="lightbox-heading-group">
+        <span class="lightbox-cat" id="lightboxCat"></span>
+        <span class="lightbox-code" id="lightboxCode"></span>
+        <span class="lightbox-counter" id="lightboxCounter"></span>
+      </div>
+
+      <div class="lightbox-tools">
+        <button type="button" class="lb-tool-btn" id="lbCopyCodeBtn">Copy Code</button>
+        <button type="button" class="lb-tool-btn" id="lbShareLookBtn">Share Look</button>
+        <button type="button" class="lb-close-btn" id="lightboxClose" aria-label="Close preview">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="lightbox-center">
+      <button type="button" class="lb-arrow lb-prev" id="lightboxPrev" aria-label="Previous look">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+      </button>
+
+      <div class="lightbox-stage" id="lightboxStage">
+        <img id="lightboxImg" src="" alt="" />
+      </div>
+
+      <button type="button" class="lb-arrow lb-next" id="lightboxNext" aria-label="Next look">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </button>
+    </div>
+
+    <div class="lightbox-filmstrip" id="lightboxFilmstrip" aria-label="Collection filmstrip"></div>
+  </div>
+
+  <!-- Back to Top & Toast -->
+  <button type="button" class="back-to-top" id="backToTop" aria-label="Back to top">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="config.js"></script>
+  <script src="catalog-data.js"></script>
+  <script src="catalog-thumbs.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+name: Sync Google Drive to Static Catalog
+
+on:
+  # Automatically sync additions and removals from Google Drive every 5 minutes
+  schedule:
+    - cron: '*/5 * * * *'
+  # Automatically populate images/ on initial push to main
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync-public-drive.py'
+      - '.github/workflows/sync-drive-catalog.yml'
+  # Also allow on-demand sync from the GitHub Actions tab or webhook
+  workflow_dispatch:
+  repository_dispatch:
+    types: [drive-updated]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "drive-catalog-sync"
+  cancel-in-progress: true
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Pillow for WebP optimization
+        run: python3 -m pip install --quiet pillow
+
+      - name: Mirror Google Drive Folder (Additions & Removals) to Local WebP Catalog
+        env:
+          GOOGLE_DRIVE_FOLDER_URL: ${{ secrets.GOOGLE_DRIVE_FOLDER_URL || 'https://drive.google.com/drive/folders/1SFQXzCrRSn4I2ZS-bECrAMjcIIYjAzx6' }}
+        run: python3 scripts/sync-public-drive.py
+
+      - name: Commit & Push Catalog Updates if Drive Changed
+        run: |
+          git config user.name "Rander Catalog Sync Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add catalog-data.js catalog-data.json catalog-thumbs.js images/
+          if git diff --cached --quiet; then
+            echo "Catalog is already in sync with Google Drive."
+          else
+            git commit -m "chore: auto-sync catalog with Google Drive updates"
+            git push
+          fi
+
+      - name: Deploy Static Catalog to Cloudflare (if Cloudflare API token configured)
+        if: ${{ env.HAS_CF == 'true' }}
+        env:
+          HAS_CF: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && 'true' || 'false' }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || 'cb32e620e25f85701841122aa67817bd' }}
+        run: npx wrangler deploy --assets=.
