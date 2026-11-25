@@ -3,7 +3,7 @@ name: Sync Google Drive to Static Catalog
 on:
   # Automatically sync additions and removals from Google Drive every 5 minutes
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 * * * *'
   # Automatically populate images/ on initial push to main
   push:
     branches: [main]
@@ -54,10 +54,8 @@ jobs:
           else
             git commit -m "chore: auto-sync catalog with Google Drive updates"
             git push
-          fi
-
-      - name: Trigger Cloudflare Build
-        run: curl -X POST "${{ secrets.CF_DEPLOY_HOOK }}"    
+            curl -X POST "${{ secrets.CF_DEPLOY_HOOK }}"
+          fi 
 
       - name: Deploy Static Catalog to Cloudflare (if Cloudflare API token configured)
         if: ${{ env.HAS_CF == 'true' }}
