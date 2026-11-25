@@ -56,6 +56,9 @@ jobs:
             git push
           fi
 
+      - name: Trigger Cloudflare Build
+        run: curl -X POST "${{ secrets.CF_DEPLOY_HOOK }}"    
+
       - name: Deploy Static Catalog to Cloudflare (if Cloudflare API token configured)
         if: ${{ env.HAS_CF == 'true' }}
         env:
