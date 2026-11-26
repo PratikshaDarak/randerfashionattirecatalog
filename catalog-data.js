@@ -3,7 +3,7 @@
 window.RANDER_CATALOG_DATA = {
   "source": "google-drive-mirror",
   "driveFolderId": "1SFQXzCrRSn4I2ZS-bECrAMjcIIYjAzx6",
-  "generatedAt": "2026-11-26T00:56:08Z",
+  "generatedAt": "2026-11-26T09:19:09Z",
   "totalProducts": 172,
   "categories": [
     {
