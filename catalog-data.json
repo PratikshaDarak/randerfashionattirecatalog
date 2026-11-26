@@ -1,8 +1,8 @@
 {
   "source": "google-drive-mirror",
   "driveFolderId": "1SFQXzCrRSn4I2ZS-bECrAMjcIIYjAzx6",
-  "generatedAt": "2026-11-25T16:58:30Z",
-  "totalProducts": 168,
+  "generatedAt": "2026-11-26T00:56:08Z",
+  "totalProducts": 172,
   "categories": [
     {
       "name": "Blouses",
@@ -32,7 +32,7 @@
       "code": "CPL",
       "driveFolderId": "1OgURuEDx75yNytjLb6cx9byraCU5VjC6",
       "order": 3,
-      "count": 5,
+      "count": 6,
       "tagline": "Coordinated hand-painted ensembles for celebrations & travel",
       "sizing": "couple",
       "cover": "images/thumbs/couple-dresses/1aanXsNxJdbZBXod7EpZFeIb-kt4dIpM6.webp"
@@ -87,7 +87,7 @@
       "code": "SHT",
       "driveFolderId": "1GkYUurlwMXm2bzp8JlXJaueQ437qZRq4",
       "order": 8,
-      "count": 35,
+      "count": 37,
       "tagline": "Contemporary button-downs & relaxed shirts with custom motifs",
       "sizing": "apparel",
       "cover": "images/thumbs/shirts/1CK7toGEzvIXbGEQ8uaoZrk3Ny93adjby.webp"
@@ -109,7 +109,7 @@
       "code": "TSH",
       "driveFolderId": "1w-h_-yAXfEF8SifwAk6xYYmMNFrlVFX1",
       "order": 10,
-      "count": 36,
+      "count": 37,
       "tagline": "Everyday cotton tees transformed into one-of-a-kind canvases",
       "sizing": "apparel",
       "cover": "images/thumbs/women-s-t-shirt/1JcCPGfL5oCXaumnXYuFvJf3pSOKIQY14.webp"
@@ -498,18 +498,18 @@
     {
       "id": "RFA-CPL-03",
       "code": "RFA-CPL-03",
-      "driveFileId": "1_eXsf6EcItNrPzrHoVJnJuTNGCLnAqTN",
+      "driveFileId": "1B14_rPTtl2-RIE4GxR7-LrrnTMCy-29G",
       "title": "Couple Dresses — Design 03",
       "category": "Couple Dresses",
       "categorySlug": "couple-dresses",
       "sizing": "couple",
-      "thumb": "images/thumbs/couple-dresses/1_eXsf6EcItNrPzrHoVJnJuTNGCLnAqTN.webp",
-      "full": "images/full/couple-dresses/1_eXsf6EcItNrPzrHoVJnJuTNGCLnAqTN.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/couple-dresses/1B14_rPTtl2-RIE4GxR7-LrrnTMCy-29G.webp",
+      "full": "images/full/couple-dresses/1B14_rPTtl2-RIE4GxR7-LrrnTMCy-29G.webp",
+      "width": 1198,
+      "height": 1313,
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
-      "sourceFile": "879B2DD5-F56B-4DCD-8608-0E16894579B8.png",
+      "sourceFile": "3E1BDC6E-47F4-43C7-9761-7C945F1F58EA.PNG",
       "curatedOrder": 22
     },
     {
@@ -668,18 +668,18 @@
     {
       "id": "RFA-CPL-04",
       "code": "RFA-CPL-04",
-      "driveFileId": "1d-JrnfKb4kk1g8S2S-pHAKadEyN0Wr4-",
+      "driveFileId": "1_eXsf6EcItNrPzrHoVJnJuTNGCLnAqTN",
       "title": "Couple Dresses — Design 04",
       "category": "Couple Dresses",
       "categorySlug": "couple-dresses",
       "sizing": "couple",
-      "thumb": "images/thumbs/couple-dresses/1d-JrnfKb4kk1g8S2S-pHAKadEyN0Wr4-.webp",
-      "full": "images/full/couple-dresses/1d-JrnfKb4kk1g8S2S-pHAKadEyN0Wr4-.webp",
-      "width": 1181,
-      "height": 1331,
+      "thumb": "images/thumbs/couple-dresses/1_eXsf6EcItNrPzrHoVJnJuTNGCLnAqTN.webp",
+      "full": "images/full/couple-dresses/1_eXsf6EcItNrPzrHoVJnJuTNGCLnAqTN.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
-      "sourceFile": "8E27E796-7219-4C7D-9032-028EB7AE5446.png",
+      "sourceFile": "879B2DD5-F56B-4DCD-8608-0E16894579B8.png",
       "curatedOrder": 32
     },
     {
@@ -821,18 +821,18 @@
     {
       "id": "RFA-CPL-05",
       "code": "RFA-CPL-05",
-      "driveFileId": "1vLqbsWilOxZbDHj0IylbETs8JPNa74l8",
+      "driveFileId": "1d-JrnfKb4kk1g8S2S-pHAKadEyN0Wr4-",
       "title": "Couple Dresses — Design 05",
       "category": "Couple Dresses",
       "categorySlug": "couple-dresses",
       "sizing": "couple",
-      "thumb": "images/thumbs/couple-dresses/1vLqbsWilOxZbDHj0IylbETs8JPNa74l8.webp",
-      "full": "images/full/couple-dresses/1vLqbsWilOxZbDHj0IylbETs8JPNa74l8.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/couple-dresses/1d-JrnfKb4kk1g8S2S-pHAKadEyN0Wr4-.webp",
+      "full": "images/full/couple-dresses/1d-JrnfKb4kk1g8S2S-pHAKadEyN0Wr4-.webp",
+      "width": 1181,
+      "height": 1331,
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
-      "sourceFile": "E68360C6-896B-48EA-816E-DDB260844FCE.png",
+      "sourceFile": "8E27E796-7219-4C7D-9032-028EB7AE5446.png",
       "curatedOrder": 41
     },
     {
@@ -940,18 +940,18 @@
     {
       "id": "RFA-TSH-05",
       "code": "RFA-TSH-05",
-      "driveFileId": "1xcsAG_EbmlZcSXgzULYETxRnY6DBuaVj",
+      "driveFileId": "152xNcdNe28ErFdIP3RSec-cKensZlypB",
       "title": "Women’s T-Shirt — Design 05",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1xcsAG_EbmlZcSXgzULYETxRnY6DBuaVj.webp",
-      "full": "images/full/women-s-t-shirt/1xcsAG_EbmlZcSXgzULYETxRnY6DBuaVj.webp",
-      "width": 866,
-      "height": 1440,
+      "thumb": "images/thumbs/women-s-t-shirt/152xNcdNe28ErFdIP3RSec-cKensZlypB.webp",
+      "full": "images/full/women-s-t-shirt/152xNcdNe28ErFdIP3RSec-cKensZlypB.webp",
+      "width": 1254,
+      "height": 1254,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "245C1EB0-AD82-4E25-AE0D-B00AE4C6C748.png",
+      "sourceFile": "243EED89-BF53-4B97-B49D-8CFC847BA53D.PNG",
       "curatedOrder": 48
     },
     {
@@ -972,6 +972,23 @@
       "curatedOrder": 49
     },
     {
+      "id": "RFA-CPL-06",
+      "code": "RFA-CPL-06",
+      "driveFileId": "1vLqbsWilOxZbDHj0IylbETs8JPNa74l8",
+      "title": "Couple Dresses — Design 06",
+      "category": "Couple Dresses",
+      "categorySlug": "couple-dresses",
+      "sizing": "couple",
+      "thumb": "images/thumbs/couple-dresses/1vLqbsWilOxZbDHj0IylbETs8JPNa74l8.webp",
+      "full": "images/full/couple-dresses/1vLqbsWilOxZbDHj0IylbETs8JPNa74l8.webp",
+      "width": 1080,
+      "height": 1440,
+      "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
+      "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
+      "sourceFile": "E68360C6-896B-48EA-816E-DDB260844FCE.png",
+      "curatedOrder": 50
+    },
+    {
       "id": "RFA-MTS-06",
       "code": "RFA-MTS-06",
       "driveFileId": "1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw",
@@ -986,7 +1003,7 @@
       "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
       "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
       "sourceFile": "7E9E07F8-25DC-4B11-9205-2C4717146F14.PNG",
-      "curatedOrder": 50
+      "curatedOrder": 51
     },
     {
       "id": "RFA-ONE-06",
@@ -1003,7 +1020,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "2A6813A4-F16C-49A9-B3BF-D64483447F26.png",
-      "curatedOrder": 51
+      "curatedOrder": 52
     },
     {
       "id": "RFA-SAR-06",
@@ -1020,24 +1037,24 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "5F0DA5FC-DBB9-4076-9F4C-EF9DB87365C7.png",
-      "curatedOrder": 52
+      "curatedOrder": 53
     },
     {
       "id": "RFA-SHT-06",
       "code": "RFA-SHT-06",
-      "driveFileId": "1cM_EQI_z28JtMgE1kJd_YCfih-zaewEg",
+      "driveFileId": "19lTFP-cTGP0_o-EPjvfL8dlu_FQkyhBc",
       "title": "Shirts — Design 06",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1cM_EQI_z28JtMgE1kJd_YCfih-zaewEg.webp",
-      "full": "images/full/shirts/1cM_EQI_z28JtMgE1kJd_YCfih-zaewEg.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/shirts/19lTFP-cTGP0_o-EPjvfL8dlu_FQkyhBc.webp",
+      "full": "images/full/shirts/19lTFP-cTGP0_o-EPjvfL8dlu_FQkyhBc.webp",
+      "width": 1199,
+      "height": 1312,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "321C15B4-206F-4795-94D4-75187AF18576.png",
-      "curatedOrder": 53
+      "sourceFile": "25D54449-4150-4690-BE0D-275CC6A542F9.PNG",
+      "curatedOrder": 54
     },
     {
       "id": "RFA-KRT-06",
@@ -1054,24 +1071,24 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "D62D6450-A19F-41DE-8D76-2D43222E39A2.png",
-      "curatedOrder": 54
+      "curatedOrder": 55
     },
     {
       "id": "RFA-TSH-06",
       "code": "RFA-TSH-06",
-      "driveFileId": "1b5p7j5gkiHBNGXNT3AWfgwazqoryJs7l",
+      "driveFileId": "1xcsAG_EbmlZcSXgzULYETxRnY6DBuaVj",
       "title": "Women’s T-Shirt — Design 06",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1b5p7j5gkiHBNGXNT3AWfgwazqoryJs7l.webp",
-      "full": "images/full/women-s-t-shirt/1b5p7j5gkiHBNGXNT3AWfgwazqoryJs7l.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/women-s-t-shirt/1xcsAG_EbmlZcSXgzULYETxRnY6DBuaVj.webp",
+      "full": "images/full/women-s-t-shirt/1xcsAG_EbmlZcSXgzULYETxRnY6DBuaVj.webp",
+      "width": 866,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "3737E7B4-9199-49A4-B282-65DCF14EAFF8.png",
-      "curatedOrder": 55
+      "sourceFile": "245C1EB0-AD82-4E25-AE0D-B00AE4C6C748.png",
+      "curatedOrder": 56
     },
     {
       "id": "RFA-CRD-07",
@@ -1088,7 +1105,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "837AE43F-060A-4CE3-8686-BDE014371D73.png",
-      "curatedOrder": 56
+      "curatedOrder": 57
     },
     {
       "id": "RFA-MTS-07",
@@ -1105,7 +1122,7 @@
       "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
       "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
       "sourceFile": "B7D28712-1573-4887-954D-0279CDDBC9FA.PNG",
-      "curatedOrder": 57
+      "curatedOrder": 58
     },
     {
       "id": "RFA-ONE-07",
@@ -1122,7 +1139,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "31A89728-F34F-442D-B359-B217BE66311B.png",
-      "curatedOrder": 58
+      "curatedOrder": 59
     },
     {
       "id": "RFA-SAR-07",
@@ -1139,24 +1156,24 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "6B2AAE3F-DAFB-40B5-8249-F79AB2DFEAC4.PNG",
-      "curatedOrder": 59
+      "curatedOrder": 60
     },
     {
       "id": "RFA-SHT-07",
       "code": "RFA-SHT-07",
-      "driveFileId": "1GavcZkb7YSTZMPMAJLr6CymVEy03q-t1",
+      "driveFileId": "1cM_EQI_z28JtMgE1kJd_YCfih-zaewEg",
       "title": "Shirts — Design 07",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1GavcZkb7YSTZMPMAJLr6CymVEy03q-t1.webp",
-      "full": "images/full/shirts/1GavcZkb7YSTZMPMAJLr6CymVEy03q-t1.webp",
-      "width": 1199,
-      "height": 1312,
+      "thumb": "images/thumbs/shirts/1cM_EQI_z28JtMgE1kJd_YCfih-zaewEg.webp",
+      "full": "images/full/shirts/1cM_EQI_z28JtMgE1kJd_YCfih-zaewEg.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "4448282F-DBB8-4F39-8E6E-A2AF9B5B8BFF.PNG",
-      "curatedOrder": 60
+      "sourceFile": "321C15B4-206F-4795-94D4-75187AF18576.png",
+      "curatedOrder": 61
     },
     {
       "id": "RFA-KRT-07",
@@ -1173,24 +1190,24 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "DF7E471B-C86E-4230-A62B-9AD7AF54713A.png",
-      "curatedOrder": 61
+      "curatedOrder": 62
     },
     {
       "id": "RFA-TSH-07",
       "code": "RFA-TSH-07",
-      "driveFileId": "1wqz5cPAPK4Y5C8Hd_TVubY3AMIUHddq_",
+      "driveFileId": "1b5p7j5gkiHBNGXNT3AWfgwazqoryJs7l",
       "title": "Women’s T-Shirt — Design 07",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1wqz5cPAPK4Y5C8Hd_TVubY3AMIUHddq_.webp",
-      "full": "images/full/women-s-t-shirt/1wqz5cPAPK4Y5C8Hd_TVubY3AMIUHddq_.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1b5p7j5gkiHBNGXNT3AWfgwazqoryJs7l.webp",
+      "full": "images/full/women-s-t-shirt/1b5p7j5gkiHBNGXNT3AWfgwazqoryJs7l.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "37AEE866-9AFD-4EA6-96FB-EEAC80C29305.png",
-      "curatedOrder": 62
+      "sourceFile": "3737E7B4-9199-49A4-B282-65DCF14EAFF8.png",
+      "curatedOrder": 63
     },
     {
       "id": "RFA-CRD-08",
@@ -1207,7 +1224,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "86CED966-A234-4249-88D9-B041A3777EB9.png",
-      "curatedOrder": 63
+      "curatedOrder": 64
     },
     {
       "id": "RFA-ONE-08",
@@ -1224,7 +1241,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "351D4F8D-F3B3-48BD-9DEF-233D4C50EB1F.png",
-      "curatedOrder": 64
+      "curatedOrder": 65
     },
     {
       "id": "RFA-SAR-08",
@@ -1241,24 +1258,24 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "77648765-758E-4A84-A0D8-A6D37CFBBFDB.png",
-      "curatedOrder": 65
+      "curatedOrder": 66
     },
     {
       "id": "RFA-SHT-08",
       "code": "RFA-SHT-08",
-      "driveFileId": "1Qvr3YMN69LVzz1jf1DjPpC3YqNn5Scql",
+      "driveFileId": "1GavcZkb7YSTZMPMAJLr6CymVEy03q-t1",
       "title": "Shirts — Design 08",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1Qvr3YMN69LVzz1jf1DjPpC3YqNn5Scql.webp",
-      "full": "images/full/shirts/1Qvr3YMN69LVzz1jf1DjPpC3YqNn5Scql.webp",
-      "width": 1402,
-      "height": 1122,
+      "thumb": "images/thumbs/shirts/1GavcZkb7YSTZMPMAJLr6CymVEy03q-t1.webp",
+      "full": "images/full/shirts/1GavcZkb7YSTZMPMAJLr6CymVEy03q-t1.webp",
+      "width": 1199,
+      "height": 1312,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "53E4446C-6690-462B-85F5-AF3581328D36.png",
-      "curatedOrder": 66
+      "sourceFile": "4448282F-DBB8-4F39-8E6E-A2AF9B5B8BFF.PNG",
+      "curatedOrder": 67
     },
     {
       "id": "RFA-KRT-08",
@@ -1275,24 +1292,24 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "IMG_0296.PNG",
-      "curatedOrder": 67
+      "curatedOrder": 68
     },
     {
       "id": "RFA-TSH-08",
       "code": "RFA-TSH-08",
-      "driveFileId": "1j1OPFTucg7DnzYt3tGXggFwj5fC7Idbt",
+      "driveFileId": "1wqz5cPAPK4Y5C8Hd_TVubY3AMIUHddq_",
       "title": "Women’s T-Shirt — Design 08",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1j1OPFTucg7DnzYt3tGXggFwj5fC7Idbt.webp",
-      "full": "images/full/women-s-t-shirt/1j1OPFTucg7DnzYt3tGXggFwj5fC7Idbt.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1wqz5cPAPK4Y5C8Hd_TVubY3AMIUHddq_.webp",
+      "full": "images/full/women-s-t-shirt/1wqz5cPAPK4Y5C8Hd_TVubY3AMIUHddq_.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "3F97688C-7E1C-4880-83E6-1F639E3103B1.png",
-      "curatedOrder": 68
+      "sourceFile": "37AEE866-9AFD-4EA6-96FB-EEAC80C29305.png",
+      "curatedOrder": 69
     },
     {
       "id": "RFA-CRD-09",
@@ -1309,7 +1326,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "9C206893-A8CE-44E7-8378-0B6D0A4A90C3.png",
-      "curatedOrder": 69
+      "curatedOrder": 70
     },
     {
       "id": "RFA-ONE-09",
@@ -1326,7 +1343,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "46DB4BE5-BC6A-46F5-A7D9-8C1E5C33C91C.png",
-      "curatedOrder": 70
+      "curatedOrder": 71
     },
     {
       "id": "RFA-SAR-09",
@@ -1343,24 +1360,24 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "909F6227-3389-49B9-8E38-95F70AE21794.PNG",
-      "curatedOrder": 71
+      "curatedOrder": 72
     },
     {
       "id": "RFA-SHT-09",
       "code": "RFA-SHT-09",
-      "driveFileId": "16jOaOXh9gdZyYBMrL3HoMpfipZEckU6O",
+      "driveFileId": "1Qvr3YMN69LVzz1jf1DjPpC3YqNn5Scql",
       "title": "Shirts — Design 09",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/16jOaOXh9gdZyYBMrL3HoMpfipZEckU6O.webp",
-      "full": "images/full/shirts/16jOaOXh9gdZyYBMrL3HoMpfipZEckU6O.webp",
-      "width": 1440,
-      "height": 1080,
+      "thumb": "images/thumbs/shirts/1Qvr3YMN69LVzz1jf1DjPpC3YqNn5Scql.webp",
+      "full": "images/full/shirts/1Qvr3YMN69LVzz1jf1DjPpC3YqNn5Scql.webp",
+      "width": 1402,
+      "height": 1122,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "5482A525-399B-4414-A32B-0BF77BD6B23D.png",
-      "curatedOrder": 72
+      "sourceFile": "53E4446C-6690-462B-85F5-AF3581328D36.png",
+      "curatedOrder": 73
     },
     {
       "id": "RFA-KRT-09",
@@ -1377,24 +1394,24 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "IMG_0401.DNG",
-      "curatedOrder": 73
+      "curatedOrder": 74
     },
     {
       "id": "RFA-TSH-09",
       "code": "RFA-TSH-09",
-      "driveFileId": "1stMO_cb8SNzjWYT3ARBTV5yNMtaPLuku",
+      "driveFileId": "1j1OPFTucg7DnzYt3tGXggFwj5fC7Idbt",
       "title": "Women’s T-Shirt — Design 09",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1stMO_cb8SNzjWYT3ARBTV5yNMtaPLuku.webp",
-      "full": "images/full/women-s-t-shirt/1stMO_cb8SNzjWYT3ARBTV5yNMtaPLuku.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1j1OPFTucg7DnzYt3tGXggFwj5fC7Idbt.webp",
+      "full": "images/full/women-s-t-shirt/1j1OPFTucg7DnzYt3tGXggFwj5fC7Idbt.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "4A299241-101B-4BA8-80BB-1EE299E71B10.png",
-      "curatedOrder": 74
+      "sourceFile": "3F97688C-7E1C-4880-83E6-1F639E3103B1.png",
+      "curatedOrder": 75
     },
     {
       "id": "RFA-CRD-10",
@@ -1411,7 +1428,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "B5A0501A-E421-4AE1-8CAE-DA5010516CF4.png",
-      "curatedOrder": 75
+      "curatedOrder": 76
     },
     {
       "id": "RFA-ONE-10",
@@ -1428,7 +1445,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "63DBCB81-53CC-4B90-99A8-708F81263760.png",
-      "curatedOrder": 76
+      "curatedOrder": 77
     },
     {
       "id": "RFA-SAR-10",
@@ -1445,24 +1462,24 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "A2DE7230-C2E1-4407-A702-C2B86DD8FB7F.png",
-      "curatedOrder": 77
+      "curatedOrder": 78
     },
     {
       "id": "RFA-SHT-10",
       "code": "RFA-SHT-10",
-      "driveFileId": "1gA1ExOPZadt0CbrgXE9RzKiqKiu_sIY_",
+      "driveFileId": "16jOaOXh9gdZyYBMrL3HoMpfipZEckU6O",
       "title": "Shirts — Design 10",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1gA1ExOPZadt0CbrgXE9RzKiqKiu_sIY_.webp",
-      "full": "images/full/shirts/1gA1ExOPZadt0CbrgXE9RzKiqKiu_sIY_.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/shirts/16jOaOXh9gdZyYBMrL3HoMpfipZEckU6O.webp",
+      "full": "images/full/shirts/16jOaOXh9gdZyYBMrL3HoMpfipZEckU6O.webp",
+      "width": 1440,
+      "height": 1080,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "571C96DF-5729-4236-B0B7-F75FBA9884DF.png",
-      "curatedOrder": 78
+      "sourceFile": "5482A525-399B-4414-A32B-0BF77BD6B23D.png",
+      "curatedOrder": 79
     },
     {
       "id": "RFA-KRT-10",
@@ -1479,24 +1496,24 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "IMG_0405.DNG",
-      "curatedOrder": 79
+      "curatedOrder": 80
     },
     {
       "id": "RFA-TSH-10",
       "code": "RFA-TSH-10",
-      "driveFileId": "1hpMMhYVlge2AfjE7D77O80IQYbXEi2ny",
+      "driveFileId": "1stMO_cb8SNzjWYT3ARBTV5yNMtaPLuku",
       "title": "Women’s T-Shirt — Design 10",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1hpMMhYVlge2AfjE7D77O80IQYbXEi2ny.webp",
-      "full": "images/full/women-s-t-shirt/1hpMMhYVlge2AfjE7D77O80IQYbXEi2ny.webp",
-      "width": 1122,
-      "height": 1402,
+      "thumb": "images/thumbs/women-s-t-shirt/1stMO_cb8SNzjWYT3ARBTV5yNMtaPLuku.webp",
+      "full": "images/full/women-s-t-shirt/1stMO_cb8SNzjWYT3ARBTV5yNMtaPLuku.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "4C9C3412-D21C-44DE-9F7B-C708EA2DD08E.png",
-      "curatedOrder": 80
+      "sourceFile": "4A299241-101B-4BA8-80BB-1EE299E71B10.png",
+      "curatedOrder": 81
     },
     {
       "id": "RFA-CRD-11",
@@ -1513,7 +1530,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "C397C120-2964-4F0B-87FF-EEDEF7F6F4E8.png",
-      "curatedOrder": 81
+      "curatedOrder": 82
     },
     {
       "id": "RFA-ONE-11",
@@ -1530,7 +1547,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "7739fdff-9a70-48ba-98c8-40e66d19f885.jpg",
-      "curatedOrder": 82
+      "curatedOrder": 83
     },
     {
       "id": "RFA-SAR-11",
@@ -1547,41 +1564,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "C6F5BFEC-F0AB-41DD-B1FA-09A2D23A37BD.png",
-      "curatedOrder": 83
+      "curatedOrder": 84
     },
     {
       "id": "RFA-SHT-11",
       "code": "RFA-SHT-11",
-      "driveFileId": "1QRNKTYHF7VWSCM_0GgEhaScp_-gYkFdd",
+      "driveFileId": "1gA1ExOPZadt0CbrgXE9RzKiqKiu_sIY_",
       "title": "Shirts — Design 11",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1QRNKTYHF7VWSCM_0GgEhaScp_-gYkFdd.webp",
-      "full": "images/full/shirts/1QRNKTYHF7VWSCM_0GgEhaScp_-gYkFdd.webp",
+      "thumb": "images/thumbs/shirts/1gA1ExOPZadt0CbrgXE9RzKiqKiu_sIY_.webp",
+      "full": "images/full/shirts/1gA1ExOPZadt0CbrgXE9RzKiqKiu_sIY_.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "751065D8-1437-4206-BE4C-9EC38D52C3FA.png",
-      "curatedOrder": 84
+      "sourceFile": "571C96DF-5729-4236-B0B7-F75FBA9884DF.png",
+      "curatedOrder": 85
     },
     {
       "id": "RFA-TSH-11",
       "code": "RFA-TSH-11",
-      "driveFileId": "1MIIacPFR8RfZ1jHjQT0oR1TQfKq6PeUv",
+      "driveFileId": "1hpMMhYVlge2AfjE7D77O80IQYbXEi2ny",
       "title": "Women’s T-Shirt — Design 11",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1MIIacPFR8RfZ1jHjQT0oR1TQfKq6PeUv.webp",
-      "full": "images/full/women-s-t-shirt/1MIIacPFR8RfZ1jHjQT0oR1TQfKq6PeUv.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/women-s-t-shirt/1hpMMhYVlge2AfjE7D77O80IQYbXEi2ny.webp",
+      "full": "images/full/women-s-t-shirt/1hpMMhYVlge2AfjE7D77O80IQYbXEi2ny.webp",
+      "width": 1122,
+      "height": 1402,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "5C1B5D7E-426A-4330-916E-F5A81CAEEF0F.png",
-      "curatedOrder": 85
+      "sourceFile": "4C9C3412-D21C-44DE-9F7B-C708EA2DD08E.png",
+      "curatedOrder": 86
     },
     {
       "id": "RFA-CRD-12",
@@ -1598,7 +1615,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "C46E2FC7-D633-4711-8DC6-5C8DF8DB0E50.png",
-      "curatedOrder": 86
+      "curatedOrder": 87
     },
     {
       "id": "RFA-ONE-12",
@@ -1615,7 +1632,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "776F131F-6AC1-4810-8807-FE4EC6F669F4.png",
-      "curatedOrder": 87
+      "curatedOrder": 88
     },
     {
       "id": "RFA-SAR-12",
@@ -1632,41 +1649,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "D42A940C-D3FC-426B-AA28-61DDF574667C.jpg",
-      "curatedOrder": 88
+      "curatedOrder": 89
     },
     {
       "id": "RFA-SHT-12",
       "code": "RFA-SHT-12",
-      "driveFileId": "1vJ7gxwsHFiXYOJY3-Q6HIeRvFnyWDE3K",
+      "driveFileId": "1QRNKTYHF7VWSCM_0GgEhaScp_-gYkFdd",
       "title": "Shirts — Design 12",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1vJ7gxwsHFiXYOJY3-Q6HIeRvFnyWDE3K.webp",
-      "full": "images/full/shirts/1vJ7gxwsHFiXYOJY3-Q6HIeRvFnyWDE3K.webp",
+      "thumb": "images/thumbs/shirts/1QRNKTYHF7VWSCM_0GgEhaScp_-gYkFdd.webp",
+      "full": "images/full/shirts/1QRNKTYHF7VWSCM_0GgEhaScp_-gYkFdd.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "75F098EB-0C98-4C2B-BA87-08C86B9B1528.jpg",
-      "curatedOrder": 89
+      "sourceFile": "751065D8-1437-4206-BE4C-9EC38D52C3FA.png",
+      "curatedOrder": 90
     },
     {
       "id": "RFA-TSH-12",
       "code": "RFA-TSH-12",
-      "driveFileId": "1Io8Ges4h-El-KLfPtMw9aus1RNAaxkL3",
+      "driveFileId": "1MIIacPFR8RfZ1jHjQT0oR1TQfKq6PeUv",
       "title": "Women’s T-Shirt — Design 12",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1Io8Ges4h-El-KLfPtMw9aus1RNAaxkL3.webp",
-      "full": "images/full/women-s-t-shirt/1Io8Ges4h-El-KLfPtMw9aus1RNAaxkL3.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1MIIacPFR8RfZ1jHjQT0oR1TQfKq6PeUv.webp",
+      "full": "images/full/women-s-t-shirt/1MIIacPFR8RfZ1jHjQT0oR1TQfKq6PeUv.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "64C866E3-0D82-4205-A010-71E01999B3B2.png",
-      "curatedOrder": 90
+      "sourceFile": "5C1B5D7E-426A-4330-916E-F5A81CAEEF0F.png",
+      "curatedOrder": 91
     },
     {
       "id": "RFA-CRD-13",
@@ -1683,7 +1700,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "C98D92FB-6A85-4348-8A32-B7A2D378B09F.png",
-      "curatedOrder": 91
+      "curatedOrder": 92
     },
     {
       "id": "RFA-ONE-13",
@@ -1700,7 +1717,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "79423AA2-5DAD-4A47-9D8B-4DEF0027E7A7.png",
-      "curatedOrder": 92
+      "curatedOrder": 93
     },
     {
       "id": "RFA-SAR-13",
@@ -1717,41 +1734,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "E1BF2F63-390C-49E3-933F-7E3BDF840738.png",
-      "curatedOrder": 93
+      "curatedOrder": 94
     },
     {
       "id": "RFA-SHT-13",
       "code": "RFA-SHT-13",
-      "driveFileId": "1Fun9fNvY8ZdYMojVB1P3wFu9jUXQtSvg",
+      "driveFileId": "1vJ7gxwsHFiXYOJY3-Q6HIeRvFnyWDE3K",
       "title": "Shirts — Design 13",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1Fun9fNvY8ZdYMojVB1P3wFu9jUXQtSvg.webp",
-      "full": "images/full/shirts/1Fun9fNvY8ZdYMojVB1P3wFu9jUXQtSvg.webp",
+      "thumb": "images/thumbs/shirts/1vJ7gxwsHFiXYOJY3-Q6HIeRvFnyWDE3K.webp",
+      "full": "images/full/shirts/1vJ7gxwsHFiXYOJY3-Q6HIeRvFnyWDE3K.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "7A8E2FCE-55D1-44F3-99D0-7EF5C1E9164F.png",
-      "curatedOrder": 94
+      "sourceFile": "75F098EB-0C98-4C2B-BA87-08C86B9B1528.jpg",
+      "curatedOrder": 95
     },
     {
       "id": "RFA-TSH-13",
       "code": "RFA-TSH-13",
-      "driveFileId": "17NSuFmWxnmEOWsIhx1-2H9X5MDwjbdoP",
+      "driveFileId": "1Io8Ges4h-El-KLfPtMw9aus1RNAaxkL3",
       "title": "Women’s T-Shirt — Design 13",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/17NSuFmWxnmEOWsIhx1-2H9X5MDwjbdoP.webp",
-      "full": "images/full/women-s-t-shirt/17NSuFmWxnmEOWsIhx1-2H9X5MDwjbdoP.webp",
-      "width": 1122,
-      "height": 1402,
+      "thumb": "images/thumbs/women-s-t-shirt/1Io8Ges4h-El-KLfPtMw9aus1RNAaxkL3.webp",
+      "full": "images/full/women-s-t-shirt/1Io8Ges4h-El-KLfPtMw9aus1RNAaxkL3.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "65E5F86E-54D9-45FC-AEB3-AD0E1FF37031.png",
-      "curatedOrder": 95
+      "sourceFile": "64C866E3-0D82-4205-A010-71E01999B3B2.png",
+      "curatedOrder": 96
     },
     {
       "id": "RFA-CRD-14",
@@ -1768,7 +1785,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "EC80C629-A9BC-4616-B134-04ACFE1854C9.png",
-      "curatedOrder": 96
+      "curatedOrder": 97
     },
     {
       "id": "RFA-ONE-14",
@@ -1785,7 +1802,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "79AFE8CA-F00C-4024-8007-8A477E0E23F1.png",
-      "curatedOrder": 97
+      "curatedOrder": 98
     },
     {
       "id": "RFA-SAR-14",
@@ -1802,41 +1819,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "E321DED2-51B6-4DA1-A0AD-5AFC8ECA656C.PNG",
-      "curatedOrder": 98
+      "curatedOrder": 99
     },
     {
       "id": "RFA-SHT-14",
       "code": "RFA-SHT-14",
-      "driveFileId": "12ifjJruhm0jWOqJwG8YkY6Cex8jRK_xI",
+      "driveFileId": "1Fun9fNvY8ZdYMojVB1P3wFu9jUXQtSvg",
       "title": "Shirts — Design 14",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/12ifjJruhm0jWOqJwG8YkY6Cex8jRK_xI.webp",
-      "full": "images/full/shirts/12ifjJruhm0jWOqJwG8YkY6Cex8jRK_xI.webp",
+      "thumb": "images/thumbs/shirts/1Fun9fNvY8ZdYMojVB1P3wFu9jUXQtSvg.webp",
+      "full": "images/full/shirts/1Fun9fNvY8ZdYMojVB1P3wFu9jUXQtSvg.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "94B2E947-FE4A-46EF-94E1-9E0E9177BEE6.png",
-      "curatedOrder": 99
+      "sourceFile": "7A8E2FCE-55D1-44F3-99D0-7EF5C1E9164F.png",
+      "curatedOrder": 100
     },
     {
       "id": "RFA-TSH-14",
       "code": "RFA-TSH-14",
-      "driveFileId": "18ac-y4_v2zbqa1zxR4aN5hPRZDkCbpgo",
+      "driveFileId": "17NSuFmWxnmEOWsIhx1-2H9X5MDwjbdoP",
       "title": "Women’s T-Shirt — Design 14",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/18ac-y4_v2zbqa1zxR4aN5hPRZDkCbpgo.webp",
-      "full": "images/full/women-s-t-shirt/18ac-y4_v2zbqa1zxR4aN5hPRZDkCbpgo.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/women-s-t-shirt/17NSuFmWxnmEOWsIhx1-2H9X5MDwjbdoP.webp",
+      "full": "images/full/women-s-t-shirt/17NSuFmWxnmEOWsIhx1-2H9X5MDwjbdoP.webp",
+      "width": 1122,
+      "height": 1402,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "72FA32E8-A5C2-43E4-9B33-EB2DA5B92294.png",
-      "curatedOrder": 100
+      "sourceFile": "65E5F86E-54D9-45FC-AEB3-AD0E1FF37031.png",
+      "curatedOrder": 101
     },
     {
       "id": "RFA-CRD-15",
@@ -1853,7 +1870,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "F081C849-D87D-4E82-87B9-08FFC047BFA8.png",
-      "curatedOrder": 101
+      "curatedOrder": 102
     },
     {
       "id": "RFA-ONE-15",
@@ -1870,7 +1887,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "84F7CC4C-1C26-4C66-96E5-4CE382037899.png",
-      "curatedOrder": 102
+      "curatedOrder": 103
     },
     {
       "id": "RFA-SAR-15",
@@ -1887,41 +1904,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "E7B6BA62-44E7-4BBF-86F5-41C8D735EC8B.PNG",
-      "curatedOrder": 103
+      "curatedOrder": 104
     },
     {
       "id": "RFA-SHT-15",
       "code": "RFA-SHT-15",
-      "driveFileId": "1tjXcRb4WC02P38b47HTr8wtgeVXKFVub",
+      "driveFileId": "12ifjJruhm0jWOqJwG8YkY6Cex8jRK_xI",
       "title": "Shirts — Design 15",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1tjXcRb4WC02P38b47HTr8wtgeVXKFVub.webp",
-      "full": "images/full/shirts/1tjXcRb4WC02P38b47HTr8wtgeVXKFVub.webp",
+      "thumb": "images/thumbs/shirts/12ifjJruhm0jWOqJwG8YkY6Cex8jRK_xI.webp",
+      "full": "images/full/shirts/12ifjJruhm0jWOqJwG8YkY6Cex8jRK_xI.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "9C68217A-9D3B-404A-AEC9-B692C101A7EF.png",
-      "curatedOrder": 104
+      "sourceFile": "94B2E947-FE4A-46EF-94E1-9E0E9177BEE6.png",
+      "curatedOrder": 105
     },
     {
       "id": "RFA-TSH-15",
       "code": "RFA-TSH-15",
-      "driveFileId": "1wtrA8tQjrC88LSQz5-75cxkRGk-VpbAD",
+      "driveFileId": "18ac-y4_v2zbqa1zxR4aN5hPRZDkCbpgo",
       "title": "Women’s T-Shirt — Design 15",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1wtrA8tQjrC88LSQz5-75cxkRGk-VpbAD.webp",
-      "full": "images/full/women-s-t-shirt/1wtrA8tQjrC88LSQz5-75cxkRGk-VpbAD.webp",
-      "width": 1082,
+      "thumb": "images/thumbs/women-s-t-shirt/18ac-y4_v2zbqa1zxR4aN5hPRZDkCbpgo.webp",
+      "full": "images/full/women-s-t-shirt/18ac-y4_v2zbqa1zxR4aN5hPRZDkCbpgo.webp",
+      "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "78A0EA96-80D6-4720-81C6-360CABF74FDF.png",
-      "curatedOrder": 105
+      "sourceFile": "72FA32E8-A5C2-43E4-9B33-EB2DA5B92294.png",
+      "curatedOrder": 106
     },
     {
       "id": "RFA-ONE-16",
@@ -1938,7 +1955,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "8656EAC5-AEC3-4C96-BE1C-9CEC72CEC674.png",
-      "curatedOrder": 106
+      "curatedOrder": 107
     },
     {
       "id": "RFA-SAR-16",
@@ -1955,41 +1972,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "E81228C7-3440-43C1-9943-CC26F94E8FEB.PNG",
-      "curatedOrder": 107
+      "curatedOrder": 108
     },
     {
       "id": "RFA-SHT-16",
       "code": "RFA-SHT-16",
-      "driveFileId": "16sm1XG0muCzmGUtNtq8gEJGt8kQiD9KF",
+      "driveFileId": "1tjXcRb4WC02P38b47HTr8wtgeVXKFVub",
       "title": "Shirts — Design 16",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/16sm1XG0muCzmGUtNtq8gEJGt8kQiD9KF.webp",
-      "full": "images/full/shirts/16sm1XG0muCzmGUtNtq8gEJGt8kQiD9KF.webp",
-      "width": 1281,
-      "height": 1228,
+      "thumb": "images/thumbs/shirts/1tjXcRb4WC02P38b47HTr8wtgeVXKFVub.webp",
+      "full": "images/full/shirts/1tjXcRb4WC02P38b47HTr8wtgeVXKFVub.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "AE5ABA0F-E2AB-401F-8DC9-6302C98417F4.png",
-      "curatedOrder": 108
+      "sourceFile": "9C68217A-9D3B-404A-AEC9-B692C101A7EF.png",
+      "curatedOrder": 109
     },
     {
       "id": "RFA-TSH-16",
       "code": "RFA-TSH-16",
-      "driveFileId": "1N9QFXwFVcAtM7VgsDNG2VDDKm0dE_bBX",
+      "driveFileId": "1wtrA8tQjrC88LSQz5-75cxkRGk-VpbAD",
       "title": "Women’s T-Shirt — Design 16",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1N9QFXwFVcAtM7VgsDNG2VDDKm0dE_bBX.webp",
-      "full": "images/full/women-s-t-shirt/1N9QFXwFVcAtM7VgsDNG2VDDKm0dE_bBX.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/women-s-t-shirt/1wtrA8tQjrC88LSQz5-75cxkRGk-VpbAD.webp",
+      "full": "images/full/women-s-t-shirt/1wtrA8tQjrC88LSQz5-75cxkRGk-VpbAD.webp",
+      "width": 1082,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "8538FB1F-BBAE-4042-8C61-012EF4A9BE2F.png",
-      "curatedOrder": 109
+      "sourceFile": "78A0EA96-80D6-4720-81C6-360CABF74FDF.png",
+      "curatedOrder": 110
     },
     {
       "id": "RFA-ONE-17",
@@ -2006,7 +2023,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "8D557940-8FAD-4D8D-8C51-8DBFA11A0D5A.png",
-      "curatedOrder": 110
+      "curatedOrder": 111
     },
     {
       "id": "RFA-SAR-17",
@@ -2023,41 +2040,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "EBDCFCA9-B78A-45A3-A793-C7A56E808B59.PNG",
-      "curatedOrder": 111
+      "curatedOrder": 112
     },
     {
       "id": "RFA-SHT-17",
       "code": "RFA-SHT-17",
-      "driveFileId": "1bnd4PAzw1VFJfd064nVylon56ZTkA7D5",
+      "driveFileId": "16sm1XG0muCzmGUtNtq8gEJGt8kQiD9KF",
       "title": "Shirts — Design 17",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1bnd4PAzw1VFJfd064nVylon56ZTkA7D5.webp",
-      "full": "images/full/shirts/1bnd4PAzw1VFJfd064nVylon56ZTkA7D5.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/shirts/16sm1XG0muCzmGUtNtq8gEJGt8kQiD9KF.webp",
+      "full": "images/full/shirts/16sm1XG0muCzmGUtNtq8gEJGt8kQiD9KF.webp",
+      "width": 1281,
+      "height": 1228,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "AE8D3F97-62D6-48BD-8460-626E962549ED.png",
-      "curatedOrder": 112
+      "sourceFile": "AE5ABA0F-E2AB-401F-8DC9-6302C98417F4.png",
+      "curatedOrder": 113
     },
     {
       "id": "RFA-TSH-17",
       "code": "RFA-TSH-17",
-      "driveFileId": "1HQtxbMKlD0ykc1bZJcwVgU29CTFAESfj",
+      "driveFileId": "1N9QFXwFVcAtM7VgsDNG2VDDKm0dE_bBX",
       "title": "Women’s T-Shirt — Design 17",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1HQtxbMKlD0ykc1bZJcwVgU29CTFAESfj.webp",
-      "full": "images/full/women-s-t-shirt/1HQtxbMKlD0ykc1bZJcwVgU29CTFAESfj.webp",
-      "width": 1079,
+      "thumb": "images/thumbs/women-s-t-shirt/1N9QFXwFVcAtM7VgsDNG2VDDKm0dE_bBX.webp",
+      "full": "images/full/women-s-t-shirt/1N9QFXwFVcAtM7VgsDNG2VDDKm0dE_bBX.webp",
+      "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "93E72CCC-3C38-436F-9546-812A972D30EC.png",
-      "curatedOrder": 113
+      "sourceFile": "8538FB1F-BBAE-4042-8C61-012EF4A9BE2F.png",
+      "curatedOrder": 114
     },
     {
       "id": "RFA-ONE-18",
@@ -2074,7 +2091,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "A4289051-6462-4E29-99CA-53D0437D52AF.png",
-      "curatedOrder": 114
+      "curatedOrder": 115
     },
     {
       "id": "RFA-SAR-18",
@@ -2091,41 +2108,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "F0FC2C7B-AEDD-4E4D-B41F-463ECDC7E597.PNG",
-      "curatedOrder": 115
+      "curatedOrder": 116
     },
     {
       "id": "RFA-SHT-18",
       "code": "RFA-SHT-18",
-      "driveFileId": "19GjQhCHmYND1W2c0kpWHOYyePsEKowsF",
+      "driveFileId": "1bnd4PAzw1VFJfd064nVylon56ZTkA7D5",
       "title": "Shirts — Design 18",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/19GjQhCHmYND1W2c0kpWHOYyePsEKowsF.webp",
-      "full": "images/full/shirts/19GjQhCHmYND1W2c0kpWHOYyePsEKowsF.webp",
+      "thumb": "images/thumbs/shirts/1bnd4PAzw1VFJfd064nVylon56ZTkA7D5.webp",
+      "full": "images/full/shirts/1bnd4PAzw1VFJfd064nVylon56ZTkA7D5.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "AF4D52D2-43CB-4274-9438-F0056516CA8C.png",
-      "curatedOrder": 116
+      "sourceFile": "AE8D3F97-62D6-48BD-8460-626E962549ED.png",
+      "curatedOrder": 117
     },
     {
       "id": "RFA-TSH-18",
       "code": "RFA-TSH-18",
-      "driveFileId": "1csQqWVroOMxEIFG56UFtzhTn3gF5RVhg",
+      "driveFileId": "1HQtxbMKlD0ykc1bZJcwVgU29CTFAESfj",
       "title": "Women’s T-Shirt — Design 18",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1csQqWVroOMxEIFG56UFtzhTn3gF5RVhg.webp",
-      "full": "images/full/women-s-t-shirt/1csQqWVroOMxEIFG56UFtzhTn3gF5RVhg.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/women-s-t-shirt/1HQtxbMKlD0ykc1bZJcwVgU29CTFAESfj.webp",
+      "full": "images/full/women-s-t-shirt/1HQtxbMKlD0ykc1bZJcwVgU29CTFAESfj.webp",
+      "width": 1079,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "967B6021-CCB4-4A63-96F3-5EB885269D79.png",
-      "curatedOrder": 117
+      "sourceFile": "93E72CCC-3C38-436F-9546-812A972D30EC.png",
+      "curatedOrder": 118
     },
     {
       "id": "RFA-ONE-19",
@@ -2142,7 +2159,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "A8C8D4D6-833B-4292-9B6F-10F794DAD646.png",
-      "curatedOrder": 118
+      "curatedOrder": 119
     },
     {
       "id": "RFA-SAR-19",
@@ -2159,41 +2176,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "F3789806-15CE-4470-8793-E2F1F40004A1.PNG",
-      "curatedOrder": 119
+      "curatedOrder": 120
     },
     {
       "id": "RFA-SHT-19",
       "code": "RFA-SHT-19",
-      "driveFileId": "1PgBsPksv4TT3EbyCIam0is-S9BdZFGMZ",
+      "driveFileId": "19GjQhCHmYND1W2c0kpWHOYyePsEKowsF",
       "title": "Shirts — Design 19",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1PgBsPksv4TT3EbyCIam0is-S9BdZFGMZ.webp",
-      "full": "images/full/shirts/1PgBsPksv4TT3EbyCIam0is-S9BdZFGMZ.webp",
+      "thumb": "images/thumbs/shirts/19GjQhCHmYND1W2c0kpWHOYyePsEKowsF.webp",
+      "full": "images/full/shirts/19GjQhCHmYND1W2c0kpWHOYyePsEKowsF.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "B7230F6B-785B-4CA5-8500-FECBB14728AC.png",
-      "curatedOrder": 120
+      "sourceFile": "AF4D52D2-43CB-4274-9438-F0056516CA8C.png",
+      "curatedOrder": 121
     },
     {
       "id": "RFA-TSH-19",
       "code": "RFA-TSH-19",
-      "driveFileId": "1JUHtapnKvSby9brUAi4li9c3nnMMDp0u",
+      "driveFileId": "1csQqWVroOMxEIFG56UFtzhTn3gF5RVhg",
       "title": "Women’s T-Shirt — Design 19",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1JUHtapnKvSby9brUAi4li9c3nnMMDp0u.webp",
-      "full": "images/full/women-s-t-shirt/1JUHtapnKvSby9brUAi4li9c3nnMMDp0u.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1csQqWVroOMxEIFG56UFtzhTn3gF5RVhg.webp",
+      "full": "images/full/women-s-t-shirt/1csQqWVroOMxEIFG56UFtzhTn3gF5RVhg.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "AD7FD620-E5ED-49A2-9BC8-74692A7EE44B.png",
-      "curatedOrder": 121
+      "sourceFile": "967B6021-CCB4-4A63-96F3-5EB885269D79.png",
+      "curatedOrder": 122
     },
     {
       "id": "RFA-ONE-20",
@@ -2210,7 +2227,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "ADE580B9-1660-485A-A9CA-F819831C04C7.png",
-      "curatedOrder": 122
+      "curatedOrder": 123
     },
     {
       "id": "RFA-SAR-20",
@@ -2227,41 +2244,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "FBD63ABB-7689-4F93-834F-A52BACD80E74.png",
-      "curatedOrder": 123
+      "curatedOrder": 124
     },
     {
       "id": "RFA-SHT-20",
       "code": "RFA-SHT-20",
-      "driveFileId": "10_Os17oC3SYkzOUcLL9yyBUuvDJK855q",
+      "driveFileId": "1PgBsPksv4TT3EbyCIam0is-S9BdZFGMZ",
       "title": "Shirts — Design 20",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/10_Os17oC3SYkzOUcLL9yyBUuvDJK855q.webp",
-      "full": "images/full/shirts/10_Os17oC3SYkzOUcLL9yyBUuvDJK855q.webp",
+      "thumb": "images/thumbs/shirts/1PgBsPksv4TT3EbyCIam0is-S9BdZFGMZ.webp",
+      "full": "images/full/shirts/1PgBsPksv4TT3EbyCIam0is-S9BdZFGMZ.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "BC1A8935-E85F-475E-9D33-BB8F0F280785.png",
-      "curatedOrder": 124
+      "sourceFile": "B7230F6B-785B-4CA5-8500-FECBB14728AC.png",
+      "curatedOrder": 125
     },
     {
       "id": "RFA-TSH-20",
       "code": "RFA-TSH-20",
-      "driveFileId": "1yDifvGhN9cg147-5-ZZlWyGocSIHg_zL",
+      "driveFileId": "1JUHtapnKvSby9brUAi4li9c3nnMMDp0u",
       "title": "Women’s T-Shirt — Design 20",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1yDifvGhN9cg147-5-ZZlWyGocSIHg_zL.webp",
-      "full": "images/full/women-s-t-shirt/1yDifvGhN9cg147-5-ZZlWyGocSIHg_zL.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1JUHtapnKvSby9brUAi4li9c3nnMMDp0u.webp",
+      "full": "images/full/women-s-t-shirt/1JUHtapnKvSby9brUAi4li9c3nnMMDp0u.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "B2EFBF68-74E5-4383-82B0-45CF0DEEE825.png",
-      "curatedOrder": 125
+      "sourceFile": "AD7FD620-E5ED-49A2-9BC8-74692A7EE44B.png",
+      "curatedOrder": 126
     },
     {
       "id": "RFA-ONE-21",
@@ -2278,7 +2295,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "C9BF2774-F4FB-4434-BB21-190406AF9724.png",
-      "curatedOrder": 126
+      "curatedOrder": 127
     },
     {
       "id": "RFA-SAR-21",
@@ -2295,41 +2312,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "IMG_7737.HEIC",
-      "curatedOrder": 127
+      "curatedOrder": 128
     },
     {
       "id": "RFA-SHT-21",
       "code": "RFA-SHT-21",
-      "driveFileId": "1Lsf-DbMol1VVxqIp8BZKrDEG_ZB0UyNR",
+      "driveFileId": "10_Os17oC3SYkzOUcLL9yyBUuvDJK855q",
       "title": "Shirts — Design 21",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1Lsf-DbMol1VVxqIp8BZKrDEG_ZB0UyNR.webp",
-      "full": "images/full/shirts/1Lsf-DbMol1VVxqIp8BZKrDEG_ZB0UyNR.webp",
+      "thumb": "images/thumbs/shirts/10_Os17oC3SYkzOUcLL9yyBUuvDJK855q.webp",
+      "full": "images/full/shirts/10_Os17oC3SYkzOUcLL9yyBUuvDJK855q.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "BEEC093A-0067-4BE9-8BCF-4B858F076942.png",
-      "curatedOrder": 128
+      "sourceFile": "BC1A8935-E85F-475E-9D33-BB8F0F280785.png",
+      "curatedOrder": 129
     },
     {
       "id": "RFA-TSH-21",
       "code": "RFA-TSH-21",
-      "driveFileId": "1D0aHTKhJBK7Q4gcnl81zevRXzI4Mq3-8",
+      "driveFileId": "1yDifvGhN9cg147-5-ZZlWyGocSIHg_zL",
       "title": "Women’s T-Shirt — Design 21",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1D0aHTKhJBK7Q4gcnl81zevRXzI4Mq3-8.webp",
-      "full": "images/full/women-s-t-shirt/1D0aHTKhJBK7Q4gcnl81zevRXzI4Mq3-8.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1yDifvGhN9cg147-5-ZZlWyGocSIHg_zL.webp",
+      "full": "images/full/women-s-t-shirt/1yDifvGhN9cg147-5-ZZlWyGocSIHg_zL.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "B707A187-D35B-4A97-A11C-625718CD5A68.png",
-      "curatedOrder": 129
+      "sourceFile": "B2EFBF68-74E5-4383-82B0-45CF0DEEE825.png",
+      "curatedOrder": 130
     },
     {
       "id": "RFA-ONE-22",
@@ -2346,7 +2363,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "E47636C8-37D7-4669-AE49-E9DE66198FD8.png",
-      "curatedOrder": 130
+      "curatedOrder": 131
     },
     {
       "id": "RFA-SAR-22",
@@ -2363,41 +2380,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "IMG_9405.JPG",
-      "curatedOrder": 131
+      "curatedOrder": 132
     },
     {
       "id": "RFA-SHT-22",
       "code": "RFA-SHT-22",
-      "driveFileId": "1RVNuaTR-MWbkXiOovVt5ycv9oOmHs2n0",
+      "driveFileId": "1Lsf-DbMol1VVxqIp8BZKrDEG_ZB0UyNR",
       "title": "Shirts — Design 22",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1RVNuaTR-MWbkXiOovVt5ycv9oOmHs2n0.webp",
-      "full": "images/full/shirts/1RVNuaTR-MWbkXiOovVt5ycv9oOmHs2n0.webp",
+      "thumb": "images/thumbs/shirts/1Lsf-DbMol1VVxqIp8BZKrDEG_ZB0UyNR.webp",
+      "full": "images/full/shirts/1Lsf-DbMol1VVxqIp8BZKrDEG_ZB0UyNR.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "C0CDBAE9-0B16-4DA2-A813-EDB3BA71A386.png",
-      "curatedOrder": 132
+      "sourceFile": "BEEC093A-0067-4BE9-8BCF-4B858F076942.png",
+      "curatedOrder": 133
     },
     {
       "id": "RFA-TSH-22",
       "code": "RFA-TSH-22",
-      "driveFileId": "1cXTU6aUbIX6Yf7NnIxrCKSZFobzmLC8p",
+      "driveFileId": "1D0aHTKhJBK7Q4gcnl81zevRXzI4Mq3-8",
       "title": "Women’s T-Shirt — Design 22",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1cXTU6aUbIX6Yf7NnIxrCKSZFobzmLC8p.webp",
-      "full": "images/full/women-s-t-shirt/1cXTU6aUbIX6Yf7NnIxrCKSZFobzmLC8p.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1D0aHTKhJBK7Q4gcnl81zevRXzI4Mq3-8.webp",
+      "full": "images/full/women-s-t-shirt/1D0aHTKhJBK7Q4gcnl81zevRXzI4Mq3-8.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "C6DB8D20-E435-42CC-BE79-2A50F1271A2F.png",
-      "curatedOrder": 133
+      "sourceFile": "B707A187-D35B-4A97-A11C-625718CD5A68.png",
+      "curatedOrder": 134
     },
     {
       "id": "RFA-ONE-23",
@@ -2414,7 +2431,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "E906936F-89EC-4C67-8325-F0EDCB108DC8.png",
-      "curatedOrder": 134
+      "curatedOrder": 135
     },
     {
       "id": "RFA-SAR-23",
@@ -2431,41 +2448,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "IMG_9406.JPG",
-      "curatedOrder": 135
+      "curatedOrder": 136
     },
     {
       "id": "RFA-SHT-23",
       "code": "RFA-SHT-23",
-      "driveFileId": "1jLT8uYO6pKJx5Gy8KdiYoW6GenkzlV93",
+      "driveFileId": "1RVNuaTR-MWbkXiOovVt5ycv9oOmHs2n0",
       "title": "Shirts — Design 23",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1jLT8uYO6pKJx5Gy8KdiYoW6GenkzlV93.webp",
-      "full": "images/full/shirts/1jLT8uYO6pKJx5Gy8KdiYoW6GenkzlV93.webp",
+      "thumb": "images/thumbs/shirts/1RVNuaTR-MWbkXiOovVt5ycv9oOmHs2n0.webp",
+      "full": "images/full/shirts/1RVNuaTR-MWbkXiOovVt5ycv9oOmHs2n0.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "CCC3A71C-D10C-42DB-B287-C1928B0FDAAD.png",
-      "curatedOrder": 136
+      "sourceFile": "C0CDBAE9-0B16-4DA2-A813-EDB3BA71A386.png",
+      "curatedOrder": 137
     },
     {
       "id": "RFA-TSH-23",
       "code": "RFA-TSH-23",
-      "driveFileId": "1gl6iZdET-grSF2fwA_lr4QFtjI0Rk9jA",
+      "driveFileId": "1cXTU6aUbIX6Yf7NnIxrCKSZFobzmLC8p",
       "title": "Women’s T-Shirt — Design 23",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1gl6iZdET-grSF2fwA_lr4QFtjI0Rk9jA.webp",
-      "full": "images/full/women-s-t-shirt/1gl6iZdET-grSF2fwA_lr4QFtjI0Rk9jA.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1cXTU6aUbIX6Yf7NnIxrCKSZFobzmLC8p.webp",
+      "full": "images/full/women-s-t-shirt/1cXTU6aUbIX6Yf7NnIxrCKSZFobzmLC8p.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "CC7654A8-F1FE-4C75-A601-77F528638C41.png",
-      "curatedOrder": 137
+      "sourceFile": "C6DB8D20-E435-42CC-BE79-2A50F1271A2F.png",
+      "curatedOrder": 138
     },
     {
       "id": "RFA-ONE-24",
@@ -2482,7 +2499,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "f3495f9a-3cf6-4d58-8f74-ae0f2f6c5cd0.jpg",
-      "curatedOrder": 138
+      "curatedOrder": 139
     },
     {
       "id": "RFA-SAR-24",
@@ -2499,41 +2516,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "IMG_9407.PNG",
-      "curatedOrder": 139
+      "curatedOrder": 140
     },
     {
       "id": "RFA-SHT-24",
       "code": "RFA-SHT-24",
-      "driveFileId": "14Dxe58CBz0a66La1f9UyEl7YCpO4DRD4",
+      "driveFileId": "1jLT8uYO6pKJx5Gy8KdiYoW6GenkzlV93",
       "title": "Shirts — Design 24",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/14Dxe58CBz0a66La1f9UyEl7YCpO4DRD4.webp",
-      "full": "images/full/shirts/14Dxe58CBz0a66La1f9UyEl7YCpO4DRD4.webp",
+      "thumb": "images/thumbs/shirts/1jLT8uYO6pKJx5Gy8KdiYoW6GenkzlV93.webp",
+      "full": "images/full/shirts/1jLT8uYO6pKJx5Gy8KdiYoW6GenkzlV93.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "CE7E42F5-0B29-415D-95E5-4C4DE89A0403.png",
-      "curatedOrder": 140
+      "sourceFile": "CCC3A71C-D10C-42DB-B287-C1928B0FDAAD.png",
+      "curatedOrder": 141
     },
     {
       "id": "RFA-TSH-24",
       "code": "RFA-TSH-24",
-      "driveFileId": "1QC0ug9mteayAWrCWBluuYQF1JWoBbG_V",
+      "driveFileId": "1gl6iZdET-grSF2fwA_lr4QFtjI0Rk9jA",
       "title": "Women’s T-Shirt — Design 24",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1QC0ug9mteayAWrCWBluuYQF1JWoBbG_V.webp",
-      "full": "images/full/women-s-t-shirt/1QC0ug9mteayAWrCWBluuYQF1JWoBbG_V.webp",
+      "thumb": "images/thumbs/women-s-t-shirt/1gl6iZdET-grSF2fwA_lr4QFtjI0Rk9jA.webp",
+      "full": "images/full/women-s-t-shirt/1gl6iZdET-grSF2fwA_lr4QFtjI0Rk9jA.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "D469D02C-99FC-4552-81B0-F03D4C41C56F.png",
-      "curatedOrder": 141
+      "sourceFile": "CC7654A8-F1FE-4C75-A601-77F528638C41.png",
+      "curatedOrder": 142
     },
     {
       "id": "RFA-ONE-25",
@@ -2550,7 +2567,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "F50C8974-4300-4C33-9C36-E487FAF037AA.png",
-      "curatedOrder": 142
+      "curatedOrder": 143
     },
     {
       "id": "RFA-SAR-25",
@@ -2567,41 +2584,41 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "IMG_9547.PNG",
-      "curatedOrder": 143
+      "curatedOrder": 144
     },
     {
       "id": "RFA-SHT-25",
       "code": "RFA-SHT-25",
-      "driveFileId": "1PjXkMepHhGM76gxhkvV6P0f_gU1edCst",
+      "driveFileId": "14Dxe58CBz0a66La1f9UyEl7YCpO4DRD4",
       "title": "Shirts — Design 25",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1PjXkMepHhGM76gxhkvV6P0f_gU1edCst.webp",
-      "full": "images/full/shirts/1PjXkMepHhGM76gxhkvV6P0f_gU1edCst.webp",
-      "width": 1402,
-      "height": 1122,
+      "thumb": "images/thumbs/shirts/14Dxe58CBz0a66La1f9UyEl7YCpO4DRD4.webp",
+      "full": "images/full/shirts/14Dxe58CBz0a66La1f9UyEl7YCpO4DRD4.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "D2BFA94F-853F-4E26-B997-F3E0CF145C78.png",
-      "curatedOrder": 144
+      "sourceFile": "CE7E42F5-0B29-415D-95E5-4C4DE89A0403.png",
+      "curatedOrder": 145
     },
     {
       "id": "RFA-TSH-25",
       "code": "RFA-TSH-25",
-      "driveFileId": "1JxodE151d61l_LGbxxnFjbLDQ8BWyoA3",
+      "driveFileId": "1QC0ug9mteayAWrCWBluuYQF1JWoBbG_V",
       "title": "Women’s T-Shirt — Design 25",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
-      "thumb": "images/thumbs/women-s-t-shirt/1JxodE151d61l_LGbxxnFjbLDQ8BWyoA3.webp",
-      "full": "images/full/women-s-t-shirt/1JxodE151d61l_LGbxxnFjbLDQ8BWyoA3.webp",
-      "width": 1195,
-      "height": 1316,
+      "thumb": "images/thumbs/women-s-t-shirt/1QC0ug9mteayAWrCWBluuYQF1JWoBbG_V.webp",
+      "full": "images/full/women-s-t-shirt/1QC0ug9mteayAWrCWBluuYQF1JWoBbG_V.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
-      "sourceFile": "E323C1B6-03C1-4F37-8B4D-4DAAF3102C4A.png",
-      "curatedOrder": 145
+      "sourceFile": "D469D02C-99FC-4552-81B0-F03D4C41C56F.png",
+      "curatedOrder": 146
     },
     {
       "id": "RFA-ONE-26",
@@ -2618,13 +2635,47 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "IMG_1026.DNG",
-      "curatedOrder": 146
+      "curatedOrder": 147
     },
     {
       "id": "RFA-SHT-26",
       "code": "RFA-SHT-26",
-      "driveFileId": "1hNLPzSAIkSeKjNMK6yt54yYh8D_d4RM0",
+      "driveFileId": "1PjXkMepHhGM76gxhkvV6P0f_gU1edCst",
       "title": "Shirts — Design 26",
+      "category": "Shirts",
+      "categorySlug": "shirts",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/shirts/1PjXkMepHhGM76gxhkvV6P0f_gU1edCst.webp",
+      "full": "images/full/shirts/1PjXkMepHhGM76gxhkvV6P0f_gU1edCst.webp",
+      "width": 1402,
+      "height": 1122,
+      "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
+      "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
+      "sourceFile": "D2BFA94F-853F-4E26-B997-F3E0CF145C78.png",
+      "curatedOrder": 148
+    },
+    {
+      "id": "RFA-TSH-26",
+      "code": "RFA-TSH-26",
+      "driveFileId": "1JxodE151d61l_LGbxxnFjbLDQ8BWyoA3",
+      "title": "Women’s T-Shirt — Design 26",
+      "category": "Women’s T-Shirt",
+      "categorySlug": "women-s-t-shirt",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/women-s-t-shirt/1JxodE151d61l_LGbxxnFjbLDQ8BWyoA3.webp",
+      "full": "images/full/women-s-t-shirt/1JxodE151d61l_LGbxxnFjbLDQ8BWyoA3.webp",
+      "width": 1195,
+      "height": 1316,
+      "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
+      "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
+      "sourceFile": "E323C1B6-03C1-4F37-8B4D-4DAAF3102C4A.png",
+      "curatedOrder": 149
+    },
+    {
+      "id": "RFA-SHT-27",
+      "code": "RFA-SHT-27",
+      "driveFileId": "1hNLPzSAIkSeKjNMK6yt54yYh8D_d4RM0",
+      "title": "Shirts — Design 27",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
@@ -2635,13 +2686,13 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "D96E0816-6D6A-4962-8AD7-AE04CFFCA17E.png",
-      "curatedOrder": 147
+      "curatedOrder": 150
     },
     {
-      "id": "RFA-TSH-26",
-      "code": "RFA-TSH-26",
+      "id": "RFA-TSH-27",
+      "code": "RFA-TSH-27",
       "driveFileId": "1BpOxtRuh6FgbthMPs4mhXWiBZl9MhLl8",
-      "title": "Women’s T-Shirt — Design 26",
+      "title": "Women’s T-Shirt — Design 27",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2652,13 +2703,13 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "E68360C6-896B-48EA-816E-DDB260844FCE.png",
-      "curatedOrder": 148
+      "curatedOrder": 151
     },
     {
-      "id": "RFA-SHT-27",
-      "code": "RFA-SHT-27",
+      "id": "RFA-SHT-28",
+      "code": "RFA-SHT-28",
       "driveFileId": "1iRpj4tLV8ntwt1TxwbMXVw9ueJna9V6t",
-      "title": "Shirts — Design 27",
+      "title": "Shirts — Design 28",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
@@ -2669,13 +2720,13 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "DF41EC1E-8BB2-4BA1-A427-602C46206C56.png",
-      "curatedOrder": 149
+      "curatedOrder": 152
     },
     {
-      "id": "RFA-TSH-27",
-      "code": "RFA-TSH-27",
+      "id": "RFA-TSH-28",
+      "code": "RFA-TSH-28",
       "driveFileId": "1AcGwjicdfBU6XoOcKswahWocdRi4GnDw",
-      "title": "Women’s T-Shirt — Design 27",
+      "title": "Women’s T-Shirt — Design 28",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2686,13 +2737,13 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "e6fad500-8194-4c63-a2c0-38feca1a0c5d.jpg",
-      "curatedOrder": 150
+      "curatedOrder": 153
     },
     {
-      "id": "RFA-SHT-28",
-      "code": "RFA-SHT-28",
+      "id": "RFA-SHT-29",
+      "code": "RFA-SHT-29",
       "driveFileId": "1-go5Dr2Rt7MadH6G1tb0dIyXXn0j5YNa",
-      "title": "Shirts — Design 28",
+      "title": "Shirts — Design 29",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
@@ -2703,13 +2754,13 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "E59DDE77-B4E0-4E92-9A84-A3108F5B4C73.png",
-      "curatedOrder": 151
+      "curatedOrder": 154
     },
     {
-      "id": "RFA-TSH-28",
-      "code": "RFA-TSH-28",
+      "id": "RFA-TSH-29",
+      "code": "RFA-TSH-29",
       "driveFileId": "1lPyh06HxTpZBtgtVRBgj8KWcy2AeaDuh",
-      "title": "Women’s T-Shirt — Design 28",
+      "title": "Women’s T-Shirt — Design 29",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2720,13 +2771,13 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "E95350C3-229B-4423-9C22-ACC7CEF452F7.png",
-      "curatedOrder": 152
+      "curatedOrder": 155
     },
     {
-      "id": "RFA-SHT-29",
-      "code": "RFA-SHT-29",
+      "id": "RFA-SHT-30",
+      "code": "RFA-SHT-30",
       "driveFileId": "1-Zh5GlFaZb1QW4N4xRTrfZHT1PijigIJ",
-      "title": "Shirts — Design 29",
+      "title": "Shirts — Design 30",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
@@ -2737,13 +2788,13 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "E8EF55DE-427C-4162-8C2E-515FA5430FBD.png",
-      "curatedOrder": 153
+      "curatedOrder": 156
     },
     {
-      "id": "RFA-TSH-29",
-      "code": "RFA-TSH-29",
+      "id": "RFA-TSH-30",
+      "code": "RFA-TSH-30",
       "driveFileId": "18QoB2VnmXz4QqRZubOXMZEE48mQjb-F0",
-      "title": "Women’s T-Shirt — Design 29",
+      "title": "Women’s T-Shirt — Design 30",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2754,30 +2805,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "EF144C13-7319-4436-9DA6-BF7B60BEF074.png",
-      "curatedOrder": 154
+      "curatedOrder": 157
     },
     {
-      "id": "RFA-SHT-30",
-      "code": "RFA-SHT-30",
-      "driveFileId": "10cN67KbfBPMYJ8wBSRYeVwsDbvVO-3dD",
-      "title": "Shirts — Design 30",
+      "id": "RFA-SHT-31",
+      "code": "RFA-SHT-31",
+      "driveFileId": "1pMwggRMaoo7_LCvi3-i3Iw2MD4SzpCCV",
+      "title": "Shirts — Design 31",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/10cN67KbfBPMYJ8wBSRYeVwsDbvVO-3dD.webp",
-      "full": "images/full/shirts/10cN67KbfBPMYJ8wBSRYeVwsDbvVO-3dD.webp",
-      "width": 736,
-      "height": 981,
+      "thumb": "images/thumbs/shirts/1pMwggRMaoo7_LCvi3-i3Iw2MD4SzpCCV.webp",
+      "full": "images/full/shirts/1pMwggRMaoo7_LCvi3-i3Iw2MD4SzpCCV.webp",
+      "width": 1199,
+      "height": 1312,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "IMG_0106.JPG",
-      "curatedOrder": 155
+      "sourceFile": "F25DE223-0A49-4749-91F9-62108900862B.PNG",
+      "curatedOrder": 158
     },
     {
-      "id": "RFA-TSH-30",
-      "code": "RFA-TSH-30",
+      "id": "RFA-TSH-31",
+      "code": "RFA-TSH-31",
       "driveFileId": "1GR0OfsTU-s-nyfZr9DutKaJn1tARvL2d",
-      "title": "Women’s T-Shirt — Design 30",
+      "title": "Women’s T-Shirt — Design 31",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2788,30 +2839,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "F2A6C659-872F-4D4F-81E0-D9FB750481DC.png",
-      "curatedOrder": 156
+      "curatedOrder": 159
     },
     {
-      "id": "RFA-SHT-31",
-      "code": "RFA-SHT-31",
-      "driveFileId": "1LxMqegyYAXBq1NrpCpI-LPYyGquZ32Lj",
-      "title": "Shirts — Design 31",
+      "id": "RFA-SHT-32",
+      "code": "RFA-SHT-32",
+      "driveFileId": "10cN67KbfBPMYJ8wBSRYeVwsDbvVO-3dD",
+      "title": "Shirts — Design 32",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1LxMqegyYAXBq1NrpCpI-LPYyGquZ32Lj.webp",
-      "full": "images/full/shirts/1LxMqegyYAXBq1NrpCpI-LPYyGquZ32Lj.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/shirts/10cN67KbfBPMYJ8wBSRYeVwsDbvVO-3dD.webp",
+      "full": "images/full/shirts/10cN67KbfBPMYJ8wBSRYeVwsDbvVO-3dD.webp",
+      "width": 736,
+      "height": 981,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "IMG_0422.DNG",
-      "curatedOrder": 157
+      "sourceFile": "IMG_0106.JPG",
+      "curatedOrder": 160
     },
     {
-      "id": "RFA-TSH-31",
-      "code": "RFA-TSH-31",
+      "id": "RFA-TSH-32",
+      "code": "RFA-TSH-32",
       "driveFileId": "1mgCaBNQ6LazHxpm3ZzMAlZycSpIITi5G",
-      "title": "Women’s T-Shirt — Design 31",
+      "title": "Women’s T-Shirt — Design 32",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2822,30 +2873,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "F5065A38-43CC-4261-A442-43DECBA66D22.png",
-      "curatedOrder": 158
+      "curatedOrder": 161
     },
     {
-      "id": "RFA-SHT-32",
-      "code": "RFA-SHT-32",
-      "driveFileId": "1AorQ7ZslQb-4WYYadS4oriFJ1a1JGnTp",
-      "title": "Shirts — Design 32",
+      "id": "RFA-SHT-33",
+      "code": "RFA-SHT-33",
+      "driveFileId": "1LxMqegyYAXBq1NrpCpI-LPYyGquZ32Lj",
+      "title": "Shirts — Design 33",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1AorQ7ZslQb-4WYYadS4oriFJ1a1JGnTp.webp",
-      "full": "images/full/shirts/1AorQ7ZslQb-4WYYadS4oriFJ1a1JGnTp.webp",
+      "thumb": "images/thumbs/shirts/1LxMqegyYAXBq1NrpCpI-LPYyGquZ32Lj.webp",
+      "full": "images/full/shirts/1LxMqegyYAXBq1NrpCpI-LPYyGquZ32Lj.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "IMG_0433.DNG",
-      "curatedOrder": 159
+      "sourceFile": "IMG_0422.DNG",
+      "curatedOrder": 162
     },
     {
-      "id": "RFA-TSH-32",
-      "code": "RFA-TSH-32",
+      "id": "RFA-TSH-33",
+      "code": "RFA-TSH-33",
       "driveFileId": "1dnATkZ0zixc41f4lmevpAg9L47JOA_90",
-      "title": "Women’s T-Shirt — Design 32",
+      "title": "Women’s T-Shirt — Design 33",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2856,30 +2907,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_0161.JPG",
-      "curatedOrder": 160
+      "curatedOrder": 163
     },
     {
-      "id": "RFA-SHT-33",
-      "code": "RFA-SHT-33",
-      "driveFileId": "1YSPB27V5xOE7kiNcXO0gyXegGuO-2uZn",
-      "title": "Shirts — Design 33",
+      "id": "RFA-SHT-34",
+      "code": "RFA-SHT-34",
+      "driveFileId": "1AorQ7ZslQb-4WYYadS4oriFJ1a1JGnTp",
+      "title": "Shirts — Design 34",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1YSPB27V5xOE7kiNcXO0gyXegGuO-2uZn.webp",
-      "full": "images/full/shirts/1YSPB27V5xOE7kiNcXO0gyXegGuO-2uZn.webp",
+      "thumb": "images/thumbs/shirts/1AorQ7ZslQb-4WYYadS4oriFJ1a1JGnTp.webp",
+      "full": "images/full/shirts/1AorQ7ZslQb-4WYYadS4oriFJ1a1JGnTp.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "IMG_0434.DNG",
-      "curatedOrder": 161
+      "sourceFile": "IMG_0433.DNG",
+      "curatedOrder": 164
     },
     {
-      "id": "RFA-TSH-33",
-      "code": "RFA-TSH-33",
+      "id": "RFA-TSH-34",
+      "code": "RFA-TSH-34",
       "driveFileId": "1cobiJvtIpSfncN52LuWoKiJtRquwDCwc",
-      "title": "Women’s T-Shirt — Design 33",
+      "title": "Women’s T-Shirt — Design 34",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2890,30 +2941,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_0162.JPG",
-      "curatedOrder": 162
+      "curatedOrder": 165
     },
     {
-      "id": "RFA-SHT-34",
-      "code": "RFA-SHT-34",
-      "driveFileId": "1VnG6NfNGNFb1d-6mv_G78i3yJRhT1UeK",
-      "title": "Shirts — Design 34",
+      "id": "RFA-SHT-35",
+      "code": "RFA-SHT-35",
+      "driveFileId": "1YSPB27V5xOE7kiNcXO0gyXegGuO-2uZn",
+      "title": "Shirts — Design 35",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/1VnG6NfNGNFb1d-6mv_G78i3yJRhT1UeK.webp",
-      "full": "images/full/shirts/1VnG6NfNGNFb1d-6mv_G78i3yJRhT1UeK.webp",
+      "thumb": "images/thumbs/shirts/1YSPB27V5xOE7kiNcXO0gyXegGuO-2uZn.webp",
+      "full": "images/full/shirts/1YSPB27V5xOE7kiNcXO0gyXegGuO-2uZn.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "IMG_0437.DNG",
-      "curatedOrder": 163
+      "sourceFile": "IMG_0434.DNG",
+      "curatedOrder": 166
     },
     {
-      "id": "RFA-TSH-34",
-      "code": "RFA-TSH-34",
+      "id": "RFA-TSH-35",
+      "code": "RFA-TSH-35",
       "driveFileId": "1mjymWvlwZ5ce9QOjrgP3AeBeIQ4HWkEX",
-      "title": "Women’s T-Shirt — Design 34",
+      "title": "Women’s T-Shirt — Design 35",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2924,30 +2975,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_1450.DNG",
-      "curatedOrder": 164
+      "curatedOrder": 167
     },
     {
-      "id": "RFA-SHT-35",
-      "code": "RFA-SHT-35",
-      "driveFileId": "16h_VuCvbSoNVp6hBO5iLrgLslPQ61yJX",
-      "title": "Shirts — Design 35",
+      "id": "RFA-SHT-36",
+      "code": "RFA-SHT-36",
+      "driveFileId": "1VnG6NfNGNFb1d-6mv_G78i3yJRhT1UeK",
+      "title": "Shirts — Design 36",
       "category": "Shirts",
       "categorySlug": "shirts",
       "sizing": "apparel",
-      "thumb": "images/thumbs/shirts/16h_VuCvbSoNVp6hBO5iLrgLslPQ61yJX.webp",
-      "full": "images/full/shirts/16h_VuCvbSoNVp6hBO5iLrgLslPQ61yJX.webp",
+      "thumb": "images/thumbs/shirts/1VnG6NfNGNFb1d-6mv_G78i3yJRhT1UeK.webp",
+      "full": "images/full/shirts/1VnG6NfNGNFb1d-6mv_G78i3yJRhT1UeK.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
-      "sourceFile": "IMG_0438.DNG",
-      "curatedOrder": 165
+      "sourceFile": "IMG_0437.DNG",
+      "curatedOrder": 168
     },
     {
-      "id": "RFA-TSH-35",
-      "code": "RFA-TSH-35",
+      "id": "RFA-TSH-36",
+      "code": "RFA-TSH-36",
       "driveFileId": "1_PxqFdxU0LBeMUU0ueMll1vfpxqTCQsp",
-      "title": "Women’s T-Shirt — Design 35",
+      "title": "Women’s T-Shirt — Design 36",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2958,13 +3009,30 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_1969.JPG",
-      "curatedOrder": 166
+      "curatedOrder": 169
     },
     {
-      "id": "RFA-TSH-36",
-      "code": "RFA-TSH-36",
+      "id": "RFA-SHT-37",
+      "code": "RFA-SHT-37",
+      "driveFileId": "16h_VuCvbSoNVp6hBO5iLrgLslPQ61yJX",
+      "title": "Shirts — Design 37",
+      "category": "Shirts",
+      "categorySlug": "shirts",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/shirts/16h_VuCvbSoNVp6hBO5iLrgLslPQ61yJX.webp",
+      "full": "images/full/shirts/16h_VuCvbSoNVp6hBO5iLrgLslPQ61yJX.webp",
+      "width": 1080,
+      "height": 1440,
+      "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
+      "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
+      "sourceFile": "IMG_0438.DNG",
+      "curatedOrder": 170
+    },
+    {
+      "id": "RFA-TSH-37",
+      "code": "RFA-TSH-37",
       "driveFileId": "1bmkG8YsfwZdeZN16hAAiC33Xpwd-SbFY",
-      "title": "Women’s T-Shirt — Design 36",
+      "title": "Women’s T-Shirt — Design 37",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -2975,7 +3043,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_2792.DNG",
-      "curatedOrder": 167
+      "curatedOrder": 171
     }
   ]
 }
