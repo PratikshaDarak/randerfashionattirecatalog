@@ -1,8 +1,8 @@
 {
   "source": "google-drive-mirror",
   "driveFolderId": "1SFQXzCrRSn4I2ZS-bECrAMjcIIYjAzx6",
-  "generatedAt": "2026-11-26T19:27:53Z",
-  "totalProducts": 172,
+  "generatedAt": "2026-11-27T02:43:09Z",
+  "totalProducts": 181,
   "categories": [
     {
       "name": "Blouses",
@@ -49,23 +49,34 @@
       "cover": "images/thumbs/dupatta/1_-_CdCoVxhLcxRzFwzAV7LpjBey5UOoA.webp"
     },
     {
-      "name": "Men’s T-Shirt",
-      "slug": "men-s-t-shirt",
-      "code": "MTS",
-      "driveFolderId": "1jNGMDeVnkcHKuhCw-PkBSV0exfAW23rO",
+      "name": "Kurta-Pant Set",
+      "slug": "kurta-pant-set",
+      "code": "KPS",
+      "driveFolderId": "1iFtF8ARa7bftkxz5N5cXF_-hXKrNZoMJ",
       "order": 5,
-      "count": 7,
-      "tagline": "Relaxed cotton tees featuring bold original studio brushwork",
+      "count": 2,
+      "tagline": "Graceful matching kurta and trouser ensembles painted by hand",
       "sizing": "apparel",
-      "cover": "images/thumbs/men-s-t-shirt/1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D.webp"
+      "cover": "images/thumbs/kurta-pant-set/1ylRSOB-RVnYUmIedsMZMiybIOrsTxK4M.webp"
+    },
+    {
+      "name": "Mens collection",
+      "slug": "mens-collection",
+      "code": "MEN",
+      "driveFolderId": "1jNGMDeVnkcHKuhCw-PkBSV0exfAW23rO",
+      "order": 6,
+      "count": 8,
+      "tagline": "Hand-painted Mens collection collection from Rander's Fashion Attire",
+      "sizing": "apparel",
+      "cover": "images/thumbs/mens-collection/1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D.webp"
     },
     {
       "name": "one peiece",
       "slug": "one-peiece",
       "code": "ONE",
       "driveFolderId": "1VFUsH3LiNLAfa5Yavh3LMdRXYUJ2acrr",
-      "order": 6,
-      "count": 26,
+      "order": 7,
+      "count": 27,
       "tagline": "Effortless silhouettes elevated with original wearable art",
       "sizing": "apparel",
       "cover": "images/thumbs/one-peiece/1EwXJBgIUx1oAI-mTXXQPNrCjCGhTJDwI.webp"
@@ -75,8 +86,8 @@
       "slug": "saree",
       "code": "SAR",
       "driveFolderId": "1VzIXRxrld79-j5f4YhAlPL-2zhXaG5kZ",
-      "order": 7,
-      "count": 25,
+      "order": 8,
+      "count": 28,
       "tagline": "Hand-painted drapes in flowing silks, cottons & organza",
       "sizing": "saree",
       "cover": "images/thumbs/saree/1SXL3dAWrZx9lzJc4GQMRSV0irtcbBEgJ.webp"
@@ -86,7 +97,7 @@
       "slug": "shirts",
       "code": "SHT",
       "driveFolderId": "1GkYUurlwMXm2bzp8JlXJaueQ437qZRq4",
-      "order": 8,
+      "order": 9,
       "count": 37,
       "tagline": "Contemporary button-downs & relaxed shirts with custom motifs",
       "sizing": "apparel",
@@ -97,8 +108,8 @@
       "slug": "short-kurti-for-denims",
       "code": "KRT",
       "driveFolderId": "1mRWzOY5ipsa8NI48ZuBpvDtuPbil4ail",
-      "order": 9,
-      "count": 10,
+      "order": 10,
+      "count": 11,
       "tagline": "Indo-western tunics crafted to pair effortlessly with denim",
       "sizing": "apparel",
       "cover": "images/thumbs/short-kurti-for-denims/1N4W2NhNlE90mdcPOlraEFHl2sA43cXA8.webp"
@@ -108,8 +119,8 @@
       "slug": "women-s-t-shirt",
       "code": "TSH",
       "driveFolderId": "1w-h_-yAXfEF8SifwAk6xYYmMNFrlVFX1",
-      "order": 10,
-      "count": 37,
+      "order": 11,
+      "count": 38,
       "tagline": "Everyday cotton tees transformed into one-of-a-kind canvases",
       "sizing": "apparel",
       "cover": "images/thumbs/women-s-t-shirt/1JcCPGfL5oCXaumnXYuFvJf3pSOKIQY14.webp"
@@ -190,21 +201,38 @@
       "curatedOrder": 3
     },
     {
-      "id": "RFA-MTS-01",
-      "code": "RFA-MTS-01",
-      "driveFileId": "1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D",
-      "title": "Men’s T-Shirt — Design 01",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "id": "RFA-KPS-01",
+      "code": "RFA-KPS-01",
+      "driveFileId": "1ylRSOB-RVnYUmIedsMZMiybIOrsTxK4M",
+      "title": "Kurta-Pant Set — Design 01",
+      "category": "Kurta-Pant Set",
+      "categorySlug": "kurta-pant-set",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D.webp",
-      "full": "images/full/men-s-t-shirt/1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D.webp",
+      "thumb": "images/thumbs/kurta-pant-set/1ylRSOB-RVnYUmIedsMZMiybIOrsTxK4M.webp",
+      "full": "images/full/kurta-pant-set/1ylRSOB-RVnYUmIedsMZMiybIOrsTxK4M.webp",
       "width": 1080,
       "height": 1440,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
-      "sourceFile": "07305B5B-037D-4937-A637-E3FADB29787C.PNG",
+      "fabric": "Breathable pure cotton & chanderi kurta sets finished with artisanal brushwork.",
+      "care": "Gentle cold hand wash separately inside out or dry clean. Iron on reverse.",
+      "sourceFile": "222423D9-5D2E-4C17-8DE9-90B36523EF99.PNG",
       "curatedOrder": 4
+    },
+    {
+      "id": "RFA-MEN-01",
+      "code": "RFA-MEN-01",
+      "driveFileId": "1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D",
+      "title": "Mens collection — Design 01",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/mens-collection/1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D.webp",
+      "full": "images/full/mens-collection/1PFIBPbvNqeevPQstuVBxNb6TBX-cPH6D.webp",
+      "width": 1080,
+      "height": 1440,
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
+      "sourceFile": "07305B5B-037D-4937-A637-E3FADB29787C.PNG",
+      "curatedOrder": 5
     },
     {
       "id": "RFA-ONE-01",
@@ -221,7 +249,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "086C8F53-E04C-47E4-9504-722FBB407D76.png",
-      "curatedOrder": 5
+      "curatedOrder": 6
     },
     {
       "id": "RFA-SAR-01",
@@ -238,7 +266,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "0838A57F-73B1-4CB8-A6F5-6564792E8FD3.png",
-      "curatedOrder": 6
+      "curatedOrder": 7
     },
     {
       "id": "RFA-SHT-01",
@@ -255,7 +283,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "003CEC46-7710-41D2-8DE4-4BF542CDF02D.png",
-      "curatedOrder": 7
+      "curatedOrder": 8
     },
     {
       "id": "RFA-KRT-01",
@@ -272,7 +300,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "1452D116-825B-44DA-94E0-B60F43D1178B.png",
-      "curatedOrder": 8
+      "curatedOrder": 9
     },
     {
       "id": "RFA-TSH-01",
@@ -289,7 +317,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "06B4DE02-6E1A-4046-8683-1910915462B1.png",
-      "curatedOrder": 9
+      "curatedOrder": 10
     },
     {
       "id": "RFA-BLS-02",
@@ -306,7 +334,7 @@
       "fabric": "Fine cotton silk, raw silk & handloom cotton tailored with bespoke painted motifs.",
       "care": "Dry clean recommended to preserve structure and vibrant brushwork.",
       "sourceFile": "DAC8BDA4-E04C-4814-A6ED-4DC20034CA71.png",
-      "curatedOrder": 10
+      "curatedOrder": 11
     },
     {
       "id": "RFA-CRD-02",
@@ -323,7 +351,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "417F6BFD-5DEB-462F-BB67-6A282C724C33.png",
-      "curatedOrder": 11
+      "curatedOrder": 12
     },
     {
       "id": "RFA-CPL-02",
@@ -340,7 +368,7 @@
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
       "sourceFile": "321C15B4-206F-4795-94D4-75187AF18576.png",
-      "curatedOrder": 12
+      "curatedOrder": 13
     },
     {
       "id": "RFA-DUP-02",
@@ -357,24 +385,41 @@
       "fabric": "Airy cotton, chanderi, or organza dupattas adorned with original hand-painted motifs.",
       "care": "Dry clean or gentle cold hand wash separately. Dry flat in shade.",
       "sourceFile": "IMG_4598.JPG",
-      "curatedOrder": 13
+      "curatedOrder": 14
     },
     {
-      "id": "RFA-MTS-02",
-      "code": "RFA-MTS-02",
-      "driveFileId": "1iyyIpjBBfZvr3HJ1RY95tfKbFqvV-zBk",
-      "title": "Men’s T-Shirt — Design 02",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "id": "RFA-KPS-02",
+      "code": "RFA-KPS-02",
+      "driveFileId": "1FfYnjbcCPY8TuSQcjhYUayOKnjIwUH4G",
+      "title": "Kurta-Pant Set — Design 02",
+      "category": "Kurta-Pant Set",
+      "categorySlug": "kurta-pant-set",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/1iyyIpjBBfZvr3HJ1RY95tfKbFqvV-zBk.webp",
-      "full": "images/full/men-s-t-shirt/1iyyIpjBBfZvr3HJ1RY95tfKbFqvV-zBk.webp",
+      "thumb": "images/thumbs/kurta-pant-set/1FfYnjbcCPY8TuSQcjhYUayOKnjIwUH4G.webp",
+      "full": "images/full/kurta-pant-set/1FfYnjbcCPY8TuSQcjhYUayOKnjIwUH4G.webp",
+      "width": 1122,
+      "height": 1402,
+      "fabric": "Breathable pure cotton & chanderi kurta sets finished with artisanal brushwork.",
+      "care": "Gentle cold hand wash separately inside out or dry clean. Iron on reverse.",
+      "sourceFile": "88524DB4-BA0A-48F4-8211-0A04F2A66981.PNG",
+      "curatedOrder": 15
+    },
+    {
+      "id": "RFA-MEN-02",
+      "code": "RFA-MEN-02",
+      "driveFileId": "1iyyIpjBBfZvr3HJ1RY95tfKbFqvV-zBk",
+      "title": "Mens collection — Design 02",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/mens-collection/1iyyIpjBBfZvr3HJ1RY95tfKbFqvV-zBk.webp",
+      "full": "images/full/mens-collection/1iyyIpjBBfZvr3HJ1RY95tfKbFqvV-zBk.webp",
       "width": 1159,
       "height": 1356,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
       "sourceFile": "28BB4703-6B4B-46AD-BBF8-ABBDCCC6447B.PNG",
-      "curatedOrder": 14
+      "curatedOrder": 16
     },
     {
       "id": "RFA-ONE-02",
@@ -391,7 +436,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "0A2C7C5C-1515-454E-B217-9D9906E0563A.png",
-      "curatedOrder": 15
+      "curatedOrder": 17
     },
     {
       "id": "RFA-SAR-02",
@@ -408,7 +453,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "42625B15-0E72-48F5-974B-934C03C414A3.png",
-      "curatedOrder": 16
+      "curatedOrder": 18
     },
     {
       "id": "RFA-SHT-02",
@@ -425,7 +470,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "11772738-B1CD-406F-B8DA-7A144C4D2F73.png",
-      "curatedOrder": 17
+      "curatedOrder": 19
     },
     {
       "id": "RFA-KRT-02",
@@ -442,7 +487,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "176AF0DE-DC31-4C93-859C-615FA0F0E5CF.png",
-      "curatedOrder": 18
+      "curatedOrder": 20
     },
     {
       "id": "RFA-TSH-02",
@@ -459,7 +504,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "083F41FD-4238-4B55-8B56-C212A4A6DCCF.png",
-      "curatedOrder": 19
+      "curatedOrder": 21
     },
     {
       "id": "RFA-BLS-03",
@@ -476,7 +521,7 @@
       "fabric": "Fine cotton silk, raw silk & handloom cotton tailored with bespoke painted motifs.",
       "care": "Dry clean recommended to preserve structure and vibrant brushwork.",
       "sourceFile": "IMG_7730.HEIC",
-      "curatedOrder": 20
+      "curatedOrder": 22
     },
     {
       "id": "RFA-CRD-03",
@@ -493,7 +538,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "5321F7DD-D04F-4445-A5E2-EE6229E0BE6C.png",
-      "curatedOrder": 21
+      "curatedOrder": 23
     },
     {
       "id": "RFA-CPL-03",
@@ -510,7 +555,7 @@
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
       "sourceFile": "3E1BDC6E-47F4-43C7-9761-7C945F1F58EA.PNG",
-      "curatedOrder": 22
+      "curatedOrder": 24
     },
     {
       "id": "RFA-DUP-03",
@@ -527,24 +572,24 @@
       "fabric": "Airy cotton, chanderi, or organza dupattas adorned with original hand-painted motifs.",
       "care": "Dry clean or gentle cold hand wash separately. Dry flat in shade.",
       "sourceFile": "IMG_9269.JPG",
-      "curatedOrder": 23
+      "curatedOrder": 25
     },
     {
-      "id": "RFA-MTS-03",
-      "code": "RFA-MTS-03",
+      "id": "RFA-MEN-03",
+      "code": "RFA-MEN-03",
       "driveFileId": "1rSiUBWgwKPfYcp_Q1D3uH2AQ7XhS2qPe",
-      "title": "Men’s T-Shirt — Design 03",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "title": "Mens collection — Design 03",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/1rSiUBWgwKPfYcp_Q1D3uH2AQ7XhS2qPe.webp",
-      "full": "images/full/men-s-t-shirt/1rSiUBWgwKPfYcp_Q1D3uH2AQ7XhS2qPe.webp",
+      "thumb": "images/thumbs/mens-collection/1rSiUBWgwKPfYcp_Q1D3uH2AQ7XhS2qPe.webp",
+      "full": "images/full/mens-collection/1rSiUBWgwKPfYcp_Q1D3uH2AQ7XhS2qPe.webp",
       "width": 1080,
       "height": 1440,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
       "sourceFile": "4E847A8E-F432-4095-B5C0-C4E1AA7FA433.PNG",
-      "curatedOrder": 24
+      "curatedOrder": 26
     },
     {
       "id": "RFA-ONE-03",
@@ -561,7 +606,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "0DAAA717-AB20-482F-998B-24F7A64EF909.png",
-      "curatedOrder": 25
+      "curatedOrder": 27
     },
     {
       "id": "RFA-SAR-03",
@@ -578,7 +623,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "5B108243-F017-4C20-8A04-03C4ECE9FF2E.PNG",
-      "curatedOrder": 26
+      "curatedOrder": 28
     },
     {
       "id": "RFA-SHT-03",
@@ -595,7 +640,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "1A2DEEB2-5B61-44F6-A2DA-226B0A56E382.png",
-      "curatedOrder": 27
+      "curatedOrder": 29
     },
     {
       "id": "RFA-KRT-03",
@@ -612,7 +657,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "246C38C9-E66C-42AA-9036-116686B47DBB.png",
-      "curatedOrder": 28
+      "curatedOrder": 30
     },
     {
       "id": "RFA-TSH-03",
@@ -629,7 +674,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "0EB2BED6-C541-4448-BBA3-3368EFED00CC.png",
-      "curatedOrder": 29
+      "curatedOrder": 31
     },
     {
       "id": "RFA-BLS-04",
@@ -646,7 +691,7 @@
       "fabric": "Fine cotton silk, raw silk & handloom cotton tailored with bespoke painted motifs.",
       "care": "Dry clean recommended to preserve structure and vibrant brushwork.",
       "sourceFile": "IMG_7731.HEIC",
-      "curatedOrder": 30
+      "curatedOrder": 32
     },
     {
       "id": "RFA-CRD-04",
@@ -663,7 +708,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "5FCA40B9-81F1-4080-A7B5-6DFDF7E3EE26.png",
-      "curatedOrder": 31
+      "curatedOrder": 33
     },
     {
       "id": "RFA-CPL-04",
@@ -680,7 +725,7 @@
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
       "sourceFile": "879B2DD5-F56B-4DCD-8608-0E16894579B8.png",
-      "curatedOrder": 32
+      "curatedOrder": 34
     },
     {
       "id": "RFA-DUP-04",
@@ -697,24 +742,24 @@
       "fabric": "Airy cotton, chanderi, or organza dupattas adorned with original hand-painted motifs.",
       "care": "Dry clean or gentle cold hand wash separately. Dry flat in shade.",
       "sourceFile": "IMG_9270.JPG",
-      "curatedOrder": 33
+      "curatedOrder": 35
     },
     {
-      "id": "RFA-MTS-04",
-      "code": "RFA-MTS-04",
+      "id": "RFA-MEN-04",
+      "code": "RFA-MEN-04",
       "driveFileId": "1DJx7y8Olrf91D4EEwtc2C-79mvxpv8lF",
-      "title": "Men’s T-Shirt — Design 04",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "title": "Mens collection — Design 04",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/1DJx7y8Olrf91D4EEwtc2C-79mvxpv8lF.webp",
-      "full": "images/full/men-s-t-shirt/1DJx7y8Olrf91D4EEwtc2C-79mvxpv8lF.webp",
+      "thumb": "images/thumbs/mens-collection/1DJx7y8Olrf91D4EEwtc2C-79mvxpv8lF.webp",
+      "full": "images/full/mens-collection/1DJx7y8Olrf91D4EEwtc2C-79mvxpv8lF.webp",
       "width": 843,
       "height": 1440,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
       "sourceFile": "594BA846-2C96-429E-B8C1-A4ACD662445F.PNG",
-      "curatedOrder": 34
+      "curatedOrder": 36
     },
     {
       "id": "RFA-ONE-04",
@@ -731,7 +776,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "1D96433E-954A-4456-B152-57A553A6A981.png",
-      "curatedOrder": 35
+      "curatedOrder": 37
     },
     {
       "id": "RFA-SAR-04",
@@ -748,7 +793,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "5BB68E75-192E-4D1D-BB3C-4DD1F01ED6AB.png",
-      "curatedOrder": 36
+      "curatedOrder": 38
     },
     {
       "id": "RFA-SHT-04",
@@ -765,7 +810,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "1EB37103-21B6-413F-A4A1-FD9A5CD8D2F0.png",
-      "curatedOrder": 37
+      "curatedOrder": 39
     },
     {
       "id": "RFA-KRT-04",
@@ -782,7 +827,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "2D636D44-53E5-4265-907F-53538825BDA2.png",
-      "curatedOrder": 38
+      "curatedOrder": 40
     },
     {
       "id": "RFA-TSH-04",
@@ -799,7 +844,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "1FACA508-4ECF-4E34-BB08-5A35B5DA9BB1.png",
-      "curatedOrder": 39
+      "curatedOrder": 41
     },
     {
       "id": "RFA-CRD-05",
@@ -816,7 +861,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "6A66327E-F90D-4775-B4BF-330DE6A323F9.png",
-      "curatedOrder": 40
+      "curatedOrder": 42
     },
     {
       "id": "RFA-CPL-05",
@@ -833,7 +878,7 @@
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
       "sourceFile": "8E27E796-7219-4C7D-9032-028EB7AE5446.png",
-      "curatedOrder": 41
+      "curatedOrder": 43
     },
     {
       "id": "RFA-DUP-05",
@@ -850,24 +895,24 @@
       "fabric": "Airy cotton, chanderi, or organza dupattas adorned with original hand-painted motifs.",
       "care": "Dry clean or gentle cold hand wash separately. Dry flat in shade.",
       "sourceFile": "IMG_9276.JPG",
-      "curatedOrder": 42
+      "curatedOrder": 44
     },
     {
-      "id": "RFA-MTS-05",
-      "code": "RFA-MTS-05",
+      "id": "RFA-MEN-05",
+      "code": "RFA-MEN-05",
       "driveFileId": "1poljAjTyLvbEbSgiqKdsuV9b6J_afRzc",
-      "title": "Men’s T-Shirt — Design 05",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "title": "Mens collection — Design 05",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/1poljAjTyLvbEbSgiqKdsuV9b6J_afRzc.webp",
-      "full": "images/full/men-s-t-shirt/1poljAjTyLvbEbSgiqKdsuV9b6J_afRzc.webp",
+      "thumb": "images/thumbs/mens-collection/1poljAjTyLvbEbSgiqKdsuV9b6J_afRzc.webp",
+      "full": "images/full/mens-collection/1poljAjTyLvbEbSgiqKdsuV9b6J_afRzc.webp",
       "width": 1254,
       "height": 1254,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
       "sourceFile": "6149C956-C1A8-49BC-9F0D-6B7D4BAD048F.PNG",
-      "curatedOrder": 43
+      "curatedOrder": 45
     },
     {
       "id": "RFA-ONE-05",
@@ -884,7 +929,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "291162FC-F85F-4E69-BE2A-89F88DD1CDB6.png",
-      "curatedOrder": 44
+      "curatedOrder": 46
     },
     {
       "id": "RFA-SAR-05",
@@ -901,7 +946,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "5BCA5EB4-D7EC-442F-B9C0-337D726A182D.PNG",
-      "curatedOrder": 45
+      "curatedOrder": 47
     },
     {
       "id": "RFA-SHT-05",
@@ -918,7 +963,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "21D5A882-E13E-47C9-AC5F-F9ED70ACED11.png",
-      "curatedOrder": 46
+      "curatedOrder": 48
     },
     {
       "id": "RFA-KRT-05",
@@ -935,7 +980,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "6C3DD7BD-4722-4DAC-84A8-47B009573EA2.png",
-      "curatedOrder": 47
+      "curatedOrder": 49
     },
     {
       "id": "RFA-TSH-05",
@@ -952,7 +997,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "243EED89-BF53-4B97-B49D-8CFC847BA53D.PNG",
-      "curatedOrder": 48
+      "curatedOrder": 50
     },
     {
       "id": "RFA-CRD-06",
@@ -969,7 +1014,7 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "79C5F34B-3111-4D48-B3E7-61D6F969B58D.png",
-      "curatedOrder": 49
+      "curatedOrder": 51
     },
     {
       "id": "RFA-CPL-06",
@@ -986,24 +1031,24 @@
       "fabric": "Matching artisanal cotton & denim ensembles custom-painted as coordinated pairs.",
       "care": "Mild cold hand wash inside out or dry clean. Iron on reverse over painted regions.",
       "sourceFile": "E68360C6-896B-48EA-816E-DDB260844FCE.png",
-      "curatedOrder": 50
+      "curatedOrder": 52
     },
     {
-      "id": "RFA-MTS-06",
-      "code": "RFA-MTS-06",
-      "driveFileId": "1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw",
-      "title": "Men’s T-Shirt — Design 06",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "id": "RFA-MEN-06",
+      "code": "RFA-MEN-06",
+      "driveFileId": "1pr1hvGqXmoIzADpLkNdK4Q6co-nkWNyB",
+      "title": "Mens collection — Design 06",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw.webp",
-      "full": "images/full/men-s-t-shirt/1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw.webp",
-      "width": 1199,
-      "height": 1312,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
-      "sourceFile": "7E9E07F8-25DC-4B11-9205-2C4717146F14.PNG",
-      "curatedOrder": 51
+      "thumb": "images/thumbs/mens-collection/1pr1hvGqXmoIzADpLkNdK4Q6co-nkWNyB.webp",
+      "full": "images/full/mens-collection/1pr1hvGqXmoIzADpLkNdK4Q6co-nkWNyB.webp",
+      "width": 707,
+      "height": 759,
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
+      "sourceFile": "6E3E86ED-960F-4472-9BB6-2C6B139C9D59.jpg",
+      "curatedOrder": 53
     },
     {
       "id": "RFA-ONE-06",
@@ -1020,7 +1065,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "2A6813A4-F16C-49A9-B3BF-D64483447F26.png",
-      "curatedOrder": 52
+      "curatedOrder": 54
     },
     {
       "id": "RFA-SAR-06",
@@ -1037,7 +1082,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "5F0DA5FC-DBB9-4076-9F4C-EF9DB87365C7.png",
-      "curatedOrder": 53
+      "curatedOrder": 55
     },
     {
       "id": "RFA-SHT-06",
@@ -1054,7 +1099,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "25D54449-4150-4690-BE0D-275CC6A542F9.PNG",
-      "curatedOrder": 54
+      "curatedOrder": 56
     },
     {
       "id": "RFA-KRT-06",
@@ -1071,7 +1116,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "D62D6450-A19F-41DE-8D76-2D43222E39A2.png",
-      "curatedOrder": 55
+      "curatedOrder": 57
     },
     {
       "id": "RFA-TSH-06",
@@ -1088,7 +1133,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "245C1EB0-AD82-4E25-AE0D-B00AE4C6C748.png",
-      "curatedOrder": 56
+      "curatedOrder": 58
     },
     {
       "id": "RFA-CRD-07",
@@ -1105,24 +1150,24 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "837AE43F-060A-4CE3-8686-BDE014371D73.png",
-      "curatedOrder": 57
+      "curatedOrder": 59
     },
     {
-      "id": "RFA-MTS-07",
-      "code": "RFA-MTS-07",
-      "driveFileId": "17MwlkpjFfqgKWFTObUW9MDS7w9LkTAo4",
-      "title": "Men’s T-Shirt — Design 07",
-      "category": "Men’s T-Shirt",
-      "categorySlug": "men-s-t-shirt",
+      "id": "RFA-MEN-07",
+      "code": "RFA-MEN-07",
+      "driveFileId": "1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw",
+      "title": "Mens collection — Design 07",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
       "sizing": "apparel",
-      "thumb": "images/thumbs/men-s-t-shirt/17MwlkpjFfqgKWFTObUW9MDS7w9LkTAo4.webp",
-      "full": "images/full/men-s-t-shirt/17MwlkpjFfqgKWFTObUW9MDS7w9LkTAo4.webp",
+      "thumb": "images/thumbs/mens-collection/1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw.webp",
+      "full": "images/full/mens-collection/1A_pcHv8zDbrtM23_8SqzhaeTzs3tsUrw.webp",
       "width": 1199,
       "height": 1312,
-      "fabric": "100% combed cotton jersey hand-painted with flexible wash-fast pigments.",
-      "care": "Cold gentle wash inside out. Shade dry; iron on reverse.",
-      "sourceFile": "B7D28712-1573-4887-954D-0279CDDBC9FA.PNG",
-      "curatedOrder": 58
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
+      "sourceFile": "7E9E07F8-25DC-4B11-9205-2C4717146F14.PNG",
+      "curatedOrder": 60
     },
     {
       "id": "RFA-ONE-07",
@@ -1139,7 +1184,7 @@
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
       "sourceFile": "31A89728-F34F-442D-B359-B217BE66311B.png",
-      "curatedOrder": 59
+      "curatedOrder": 61
     },
     {
       "id": "RFA-SAR-07",
@@ -1156,7 +1201,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "6B2AAE3F-DAFB-40B5-8249-F79AB2DFEAC4.PNG",
-      "curatedOrder": 60
+      "curatedOrder": 62
     },
     {
       "id": "RFA-SHT-07",
@@ -1173,7 +1218,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "321C15B4-206F-4795-94D4-75187AF18576.png",
-      "curatedOrder": 61
+      "curatedOrder": 63
     },
     {
       "id": "RFA-KRT-07",
@@ -1190,7 +1235,7 @@
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
       "sourceFile": "DF7E471B-C86E-4230-A62B-9AD7AF54713A.png",
-      "curatedOrder": 62
+      "curatedOrder": 64
     },
     {
       "id": "RFA-TSH-07",
@@ -1207,7 +1252,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "3737E7B4-9199-49A4-B282-65DCF14EAFF8.png",
-      "curatedOrder": 63
+      "curatedOrder": 65
     },
     {
       "id": "RFA-CRD-08",
@@ -1224,24 +1269,41 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "86CED966-A234-4249-88D9-B041A3777EB9.png",
-      "curatedOrder": 64
+      "curatedOrder": 66
+    },
+    {
+      "id": "RFA-MEN-08",
+      "code": "RFA-MEN-08",
+      "driveFileId": "17MwlkpjFfqgKWFTObUW9MDS7w9LkTAo4",
+      "title": "Mens collection — Design 08",
+      "category": "Mens collection",
+      "categorySlug": "mens-collection",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/mens-collection/17MwlkpjFfqgKWFTObUW9MDS7w9LkTAo4.webp",
+      "full": "images/full/mens-collection/17MwlkpjFfqgKWFTObUW9MDS7w9LkTAo4.webp",
+      "width": 1199,
+      "height": 1312,
+      "fabric": "Premium breathable fabric finished with hand-painted wash-fast textile art.",
+      "care": "Gentle cold hand wash inside out or dry clean. Dry in shade and iron on reverse.",
+      "sourceFile": "B7D28712-1573-4887-954D-0279CDDBC9FA.PNG",
+      "curatedOrder": 67
     },
     {
       "id": "RFA-ONE-08",
       "code": "RFA-ONE-08",
-      "driveFileId": "16sFIhye6eXxT60QFj5zbPoNgIRCvtTr9",
+      "driveFileId": "1-LYJXYuKGViBL1tHSiY7sRyrJ_IsW9po",
       "title": "one peiece — Design 08",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/16sFIhye6eXxT60QFj5zbPoNgIRCvtTr9.webp",
-      "full": "images/full/one-peiece/16sFIhye6eXxT60QFj5zbPoNgIRCvtTr9.webp",
-      "width": 1402,
-      "height": 1122,
+      "thumb": "images/thumbs/one-peiece/1-LYJXYuKGViBL1tHSiY7sRyrJ_IsW9po.webp",
+      "full": "images/full/one-peiece/1-LYJXYuKGViBL1tHSiY7sRyrJ_IsW9po.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "351D4F8D-F3B3-48BD-9DEF-233D4C50EB1F.png",
-      "curatedOrder": 65
+      "sourceFile": "32C7D4C4-14EA-4804-A229-934EC3C40963.PNG",
+      "curatedOrder": 68
     },
     {
       "id": "RFA-SAR-08",
@@ -1258,7 +1320,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "77648765-758E-4A84-A0D8-A6D37CFBBFDB.png",
-      "curatedOrder": 66
+      "curatedOrder": 69
     },
     {
       "id": "RFA-SHT-08",
@@ -1275,24 +1337,24 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "4448282F-DBB8-4F39-8E6E-A2AF9B5B8BFF.PNG",
-      "curatedOrder": 67
+      "curatedOrder": 70
     },
     {
       "id": "RFA-KRT-08",
       "code": "RFA-KRT-08",
-      "driveFileId": "1BjxOHAeCbPwR3iat7E6hTHO27nPsbQ5I",
+      "driveFileId": "170mf5l1qLSPytE1xJMNlnnGlnnp-HL3r",
       "title": "Short Kurti for Denims — Design 08",
       "category": "Short Kurti for Denims",
       "categorySlug": "short-kurti-for-denims",
       "sizing": "apparel",
-      "thumb": "images/thumbs/short-kurti-for-denims/1BjxOHAeCbPwR3iat7E6hTHO27nPsbQ5I.webp",
-      "full": "images/full/short-kurti-for-denims/1BjxOHAeCbPwR3iat7E6hTHO27nPsbQ5I.webp",
-      "width": 1179,
-      "height": 1219,
+      "thumb": "images/thumbs/short-kurti-for-denims/170mf5l1qLSPytE1xJMNlnnGlnnp-HL3r.webp",
+      "full": "images/full/short-kurti-for-denims/170mf5l1qLSPytE1xJMNlnnGlnnp-HL3r.webp",
+      "width": 1312,
+      "height": 1199,
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
-      "sourceFile": "IMG_0296.PNG",
-      "curatedOrder": 68
+      "sourceFile": "F2F8D3C6-F9C2-473C-BC67-38C7B9839945.PNG",
+      "curatedOrder": 71
     },
     {
       "id": "RFA-TSH-08",
@@ -1309,7 +1371,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "37AEE866-9AFD-4EA6-96FB-EEAC80C29305.png",
-      "curatedOrder": 69
+      "curatedOrder": 72
     },
     {
       "id": "RFA-CRD-09",
@@ -1326,24 +1388,24 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "9C206893-A8CE-44E7-8378-0B6D0A4A90C3.png",
-      "curatedOrder": 70
+      "curatedOrder": 73
     },
     {
       "id": "RFA-ONE-09",
       "code": "RFA-ONE-09",
-      "driveFileId": "1jc7VTOCT4izKLkEybRhUBsDtJREgVhd0",
+      "driveFileId": "16sFIhye6eXxT60QFj5zbPoNgIRCvtTr9",
       "title": "one peiece — Design 09",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1jc7VTOCT4izKLkEybRhUBsDtJREgVhd0.webp",
-      "full": "images/full/one-peiece/1jc7VTOCT4izKLkEybRhUBsDtJREgVhd0.webp",
-      "width": 1060,
-      "height": 1440,
+      "thumb": "images/thumbs/one-peiece/16sFIhye6eXxT60QFj5zbPoNgIRCvtTr9.webp",
+      "full": "images/full/one-peiece/16sFIhye6eXxT60QFj5zbPoNgIRCvtTr9.webp",
+      "width": 1402,
+      "height": 1122,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "46DB4BE5-BC6A-46F5-A7D9-8C1E5C33C91C.png",
-      "curatedOrder": 71
+      "sourceFile": "351D4F8D-F3B3-48BD-9DEF-233D4C50EB1F.png",
+      "curatedOrder": 74
     },
     {
       "id": "RFA-SAR-09",
@@ -1360,7 +1422,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "909F6227-3389-49B9-8E38-95F70AE21794.PNG",
-      "curatedOrder": 72
+      "curatedOrder": 75
     },
     {
       "id": "RFA-SHT-09",
@@ -1377,24 +1439,24 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "53E4446C-6690-462B-85F5-AF3581328D36.png",
-      "curatedOrder": 73
+      "curatedOrder": 76
     },
     {
       "id": "RFA-KRT-09",
       "code": "RFA-KRT-09",
-      "driveFileId": "1Do3_xk91z8GlUoOb3QObBYZq1OAcba3X",
+      "driveFileId": "1BjxOHAeCbPwR3iat7E6hTHO27nPsbQ5I",
       "title": "Short Kurti for Denims — Design 09",
       "category": "Short Kurti for Denims",
       "categorySlug": "short-kurti-for-denims",
       "sizing": "apparel",
-      "thumb": "images/thumbs/short-kurti-for-denims/1Do3_xk91z8GlUoOb3QObBYZq1OAcba3X.webp",
-      "full": "images/full/short-kurti-for-denims/1Do3_xk91z8GlUoOb3QObBYZq1OAcba3X.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/short-kurti-for-denims/1BjxOHAeCbPwR3iat7E6hTHO27nPsbQ5I.webp",
+      "full": "images/full/short-kurti-for-denims/1BjxOHAeCbPwR3iat7E6hTHO27nPsbQ5I.webp",
+      "width": 1179,
+      "height": 1219,
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
-      "sourceFile": "IMG_0401.DNG",
-      "curatedOrder": 74
+      "sourceFile": "IMG_0296.PNG",
+      "curatedOrder": 77
     },
     {
       "id": "RFA-TSH-09",
@@ -1411,7 +1473,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "3F97688C-7E1C-4880-83E6-1F639E3103B1.png",
-      "curatedOrder": 75
+      "curatedOrder": 78
     },
     {
       "id": "RFA-CRD-10",
@@ -1428,24 +1490,24 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "B5A0501A-E421-4AE1-8CAE-DA5010516CF4.png",
-      "curatedOrder": 76
+      "curatedOrder": 79
     },
     {
       "id": "RFA-ONE-10",
       "code": "RFA-ONE-10",
-      "driveFileId": "1i_t9tf3QVxe4Ye8tJUKICijLxDikVGEa",
+      "driveFileId": "1jc7VTOCT4izKLkEybRhUBsDtJREgVhd0",
       "title": "one peiece — Design 10",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1i_t9tf3QVxe4Ye8tJUKICijLxDikVGEa.webp",
-      "full": "images/full/one-peiece/1i_t9tf3QVxe4Ye8tJUKICijLxDikVGEa.webp",
-      "width": 1056,
+      "thumb": "images/thumbs/one-peiece/1jc7VTOCT4izKLkEybRhUBsDtJREgVhd0.webp",
+      "full": "images/full/one-peiece/1jc7VTOCT4izKLkEybRhUBsDtJREgVhd0.webp",
+      "width": 1060,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "63DBCB81-53CC-4B90-99A8-708F81263760.png",
-      "curatedOrder": 77
+      "sourceFile": "46DB4BE5-BC6A-46F5-A7D9-8C1E5C33C91C.png",
+      "curatedOrder": 80
     },
     {
       "id": "RFA-SAR-10",
@@ -1462,7 +1524,7 @@
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
       "sourceFile": "A2DE7230-C2E1-4407-A702-C2B86DD8FB7F.png",
-      "curatedOrder": 78
+      "curatedOrder": 81
     },
     {
       "id": "RFA-SHT-10",
@@ -1479,24 +1541,24 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "5482A525-399B-4414-A32B-0BF77BD6B23D.png",
-      "curatedOrder": 79
+      "curatedOrder": 82
     },
     {
       "id": "RFA-KRT-10",
       "code": "RFA-KRT-10",
-      "driveFileId": "12ij9Fvi113mgWcinjYpJfo9fjvo5Q1WS",
+      "driveFileId": "1Do3_xk91z8GlUoOb3QObBYZq1OAcba3X",
       "title": "Short Kurti for Denims — Design 10",
       "category": "Short Kurti for Denims",
       "categorySlug": "short-kurti-for-denims",
       "sizing": "apparel",
-      "thumb": "images/thumbs/short-kurti-for-denims/12ij9Fvi113mgWcinjYpJfo9fjvo5Q1WS.webp",
-      "full": "images/full/short-kurti-for-denims/12ij9Fvi113mgWcinjYpJfo9fjvo5Q1WS.webp",
+      "thumb": "images/thumbs/short-kurti-for-denims/1Do3_xk91z8GlUoOb3QObBYZq1OAcba3X.webp",
+      "full": "images/full/short-kurti-for-denims/1Do3_xk91z8GlUoOb3QObBYZq1OAcba3X.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
       "care": "Gentle cold wash separately. Shade dry and press on reverse.",
-      "sourceFile": "IMG_0405.DNG",
-      "curatedOrder": 80
+      "sourceFile": "IMG_0401.DNG",
+      "curatedOrder": 83
     },
     {
       "id": "RFA-TSH-10",
@@ -1513,7 +1575,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "4A299241-101B-4BA8-80BB-1EE299E71B10.png",
-      "curatedOrder": 81
+      "curatedOrder": 84
     },
     {
       "id": "RFA-CRD-11",
@@ -1530,41 +1592,41 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "C397C120-2964-4F0B-87FF-EEDEF7F6F4E8.png",
-      "curatedOrder": 82
+      "curatedOrder": 85
     },
     {
       "id": "RFA-ONE-11",
       "code": "RFA-ONE-11",
-      "driveFileId": "1Wjfy2SFM98mxn97DBjympoFHIJOmycdF",
+      "driveFileId": "1i_t9tf3QVxe4Ye8tJUKICijLxDikVGEa",
       "title": "one peiece — Design 11",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1Wjfy2SFM98mxn97DBjympoFHIJOmycdF.webp",
-      "full": "images/full/one-peiece/1Wjfy2SFM98mxn97DBjympoFHIJOmycdF.webp",
-      "width": 853,
-      "height": 1280,
+      "thumb": "images/thumbs/one-peiece/1i_t9tf3QVxe4Ye8tJUKICijLxDikVGEa.webp",
+      "full": "images/full/one-peiece/1i_t9tf3QVxe4Ye8tJUKICijLxDikVGEa.webp",
+      "width": 1056,
+      "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "7739fdff-9a70-48ba-98c8-40e66d19f885.jpg",
-      "curatedOrder": 83
+      "sourceFile": "63DBCB81-53CC-4B90-99A8-708F81263760.png",
+      "curatedOrder": 86
     },
     {
       "id": "RFA-SAR-11",
       "code": "RFA-SAR-11",
-      "driveFileId": "1rIVVScFn4Dx98XIsPr2GW65JiIBbwS1D",
+      "driveFileId": "1i_rNh6U5N2yMQa8gTeVMBu_TudyKJvm-",
       "title": "Saree — Design 11",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1rIVVScFn4Dx98XIsPr2GW65JiIBbwS1D.webp",
-      "full": "images/full/saree/1rIVVScFn4Dx98XIsPr2GW65JiIBbwS1D.webp",
-      "width": 1149,
-      "height": 1369,
+      "thumb": "images/thumbs/saree/1i_rNh6U5N2yMQa8gTeVMBu_TudyKJvm-.webp",
+      "full": "images/full/saree/1i_rNh6U5N2yMQa8gTeVMBu_TudyKJvm-.webp",
+      "width": 810,
+      "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "C6F5BFEC-F0AB-41DD-B1FA-09A2D23A37BD.png",
-      "curatedOrder": 84
+      "sourceFile": "C387712E-6D0A-43CA-ACDA-1A657E9B45B8.PNG",
+      "curatedOrder": 87
     },
     {
       "id": "RFA-SHT-11",
@@ -1581,7 +1643,24 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "571C96DF-5729-4236-B0B7-F75FBA9884DF.png",
-      "curatedOrder": 85
+      "curatedOrder": 88
+    },
+    {
+      "id": "RFA-KRT-11",
+      "code": "RFA-KRT-11",
+      "driveFileId": "12ij9Fvi113mgWcinjYpJfo9fjvo5Q1WS",
+      "title": "Short Kurti for Denims — Design 11",
+      "category": "Short Kurti for Denims",
+      "categorySlug": "short-kurti-for-denims",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/short-kurti-for-denims/12ij9Fvi113mgWcinjYpJfo9fjvo5Q1WS.webp",
+      "full": "images/full/short-kurti-for-denims/12ij9Fvi113mgWcinjYpJfo9fjvo5Q1WS.webp",
+      "width": 1080,
+      "height": 1440,
+      "fabric": "Pure soft cotton & slub-cotton kurtis featuring hand-painted floral and folk artwork.",
+      "care": "Gentle cold wash separately. Shade dry and press on reverse.",
+      "sourceFile": "IMG_0405.DNG",
+      "curatedOrder": 89
     },
     {
       "id": "RFA-TSH-11",
@@ -1598,7 +1677,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "4C9C3412-D21C-44DE-9F7B-C708EA2DD08E.png",
-      "curatedOrder": 86
+      "curatedOrder": 90
     },
     {
       "id": "RFA-CRD-12",
@@ -1615,41 +1694,41 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "C46E2FC7-D633-4711-8DC6-5C8DF8DB0E50.png",
-      "curatedOrder": 87
+      "curatedOrder": 91
     },
     {
       "id": "RFA-ONE-12",
       "code": "RFA-ONE-12",
-      "driveFileId": "1twtxVYbwMy3mxdh6JfTnsj5yZjrJDCBx",
+      "driveFileId": "1Wjfy2SFM98mxn97DBjympoFHIJOmycdF",
       "title": "one peiece — Design 12",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1twtxVYbwMy3mxdh6JfTnsj5yZjrJDCBx.webp",
-      "full": "images/full/one-peiece/1twtxVYbwMy3mxdh6JfTnsj5yZjrJDCBx.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/one-peiece/1Wjfy2SFM98mxn97DBjympoFHIJOmycdF.webp",
+      "full": "images/full/one-peiece/1Wjfy2SFM98mxn97DBjympoFHIJOmycdF.webp",
+      "width": 853,
+      "height": 1280,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "776F131F-6AC1-4810-8807-FE4EC6F669F4.png",
-      "curatedOrder": 88
+      "sourceFile": "7739fdff-9a70-48ba-98c8-40e66d19f885.jpg",
+      "curatedOrder": 92
     },
     {
       "id": "RFA-SAR-12",
       "code": "RFA-SAR-12",
-      "driveFileId": "1yqNzJ1LA_2HtX1kJ3YjEXFgZBH5nGRC7",
+      "driveFileId": "1rIVVScFn4Dx98XIsPr2GW65JiIBbwS1D",
       "title": "Saree — Design 12",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1yqNzJ1LA_2HtX1kJ3YjEXFgZBH5nGRC7.webp",
-      "full": "images/full/saree/1yqNzJ1LA_2HtX1kJ3YjEXFgZBH5nGRC7.webp",
-      "width": 1364,
-      "height": 768,
+      "thumb": "images/thumbs/saree/1rIVVScFn4Dx98XIsPr2GW65JiIBbwS1D.webp",
+      "full": "images/full/saree/1rIVVScFn4Dx98XIsPr2GW65JiIBbwS1D.webp",
+      "width": 1149,
+      "height": 1369,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "D42A940C-D3FC-426B-AA28-61DDF574667C.jpg",
-      "curatedOrder": 89
+      "sourceFile": "C6F5BFEC-F0AB-41DD-B1FA-09A2D23A37BD.png",
+      "curatedOrder": 93
     },
     {
       "id": "RFA-SHT-12",
@@ -1666,7 +1745,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "751065D8-1437-4206-BE4C-9EC38D52C3FA.png",
-      "curatedOrder": 90
+      "curatedOrder": 94
     },
     {
       "id": "RFA-TSH-12",
@@ -1683,7 +1762,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "5C1B5D7E-426A-4330-916E-F5A81CAEEF0F.png",
-      "curatedOrder": 91
+      "curatedOrder": 95
     },
     {
       "id": "RFA-CRD-13",
@@ -1700,41 +1779,41 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "C98D92FB-6A85-4348-8A32-B7A2D378B09F.png",
-      "curatedOrder": 92
+      "curatedOrder": 96
     },
     {
       "id": "RFA-ONE-13",
       "code": "RFA-ONE-13",
-      "driveFileId": "1InYyIA6lZ8NrUxR0v7N1QV4Df8Le8-dm",
+      "driveFileId": "1twtxVYbwMy3mxdh6JfTnsj5yZjrJDCBx",
       "title": "one peiece — Design 13",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1InYyIA6lZ8NrUxR0v7N1QV4Df8Le8-dm.webp",
-      "full": "images/full/one-peiece/1InYyIA6lZ8NrUxR0v7N1QV4Df8Le8-dm.webp",
-      "width": 1058,
+      "thumb": "images/thumbs/one-peiece/1twtxVYbwMy3mxdh6JfTnsj5yZjrJDCBx.webp",
+      "full": "images/full/one-peiece/1twtxVYbwMy3mxdh6JfTnsj5yZjrJDCBx.webp",
+      "width": 1080,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "79423AA2-5DAD-4A47-9D8B-4DEF0027E7A7.png",
-      "curatedOrder": 93
+      "sourceFile": "776F131F-6AC1-4810-8807-FE4EC6F669F4.png",
+      "curatedOrder": 97
     },
     {
       "id": "RFA-SAR-13",
       "code": "RFA-SAR-13",
-      "driveFileId": "1Jv2AzTw8q7a4fPKHviNstUIhBQ6BoNM3",
+      "driveFileId": "1yqNzJ1LA_2HtX1kJ3YjEXFgZBH5nGRC7",
       "title": "Saree — Design 13",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1Jv2AzTw8q7a4fPKHviNstUIhBQ6BoNM3.webp",
-      "full": "images/full/saree/1Jv2AzTw8q7a4fPKHviNstUIhBQ6BoNM3.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/saree/1yqNzJ1LA_2HtX1kJ3YjEXFgZBH5nGRC7.webp",
+      "full": "images/full/saree/1yqNzJ1LA_2HtX1kJ3YjEXFgZBH5nGRC7.webp",
+      "width": 1364,
+      "height": 768,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "E1BF2F63-390C-49E3-933F-7E3BDF840738.png",
-      "curatedOrder": 94
+      "sourceFile": "D42A940C-D3FC-426B-AA28-61DDF574667C.jpg",
+      "curatedOrder": 98
     },
     {
       "id": "RFA-SHT-13",
@@ -1751,7 +1830,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "75F098EB-0C98-4C2B-BA87-08C86B9B1528.jpg",
-      "curatedOrder": 95
+      "curatedOrder": 99
     },
     {
       "id": "RFA-TSH-13",
@@ -1768,7 +1847,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "64C866E3-0D82-4205-A010-71E01999B3B2.png",
-      "curatedOrder": 96
+      "curatedOrder": 100
     },
     {
       "id": "RFA-CRD-14",
@@ -1785,41 +1864,41 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "EC80C629-A9BC-4616-B134-04ACFE1854C9.png",
-      "curatedOrder": 97
+      "curatedOrder": 101
     },
     {
       "id": "RFA-ONE-14",
       "code": "RFA-ONE-14",
-      "driveFileId": "1FzqsyS2VC8Dq2_bMRJI9zhtykCCFqvn9",
+      "driveFileId": "1InYyIA6lZ8NrUxR0v7N1QV4Df8Le8-dm",
       "title": "one peiece — Design 14",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1FzqsyS2VC8Dq2_bMRJI9zhtykCCFqvn9.webp",
-      "full": "images/full/one-peiece/1FzqsyS2VC8Dq2_bMRJI9zhtykCCFqvn9.webp",
-      "width": 1033,
+      "thumb": "images/thumbs/one-peiece/1InYyIA6lZ8NrUxR0v7N1QV4Df8Le8-dm.webp",
+      "full": "images/full/one-peiece/1InYyIA6lZ8NrUxR0v7N1QV4Df8Le8-dm.webp",
+      "width": 1058,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "79AFE8CA-F00C-4024-8007-8A477E0E23F1.png",
-      "curatedOrder": 98
+      "sourceFile": "79423AA2-5DAD-4A47-9D8B-4DEF0027E7A7.png",
+      "curatedOrder": 102
     },
     {
       "id": "RFA-SAR-14",
       "code": "RFA-SAR-14",
-      "driveFileId": "1hDfDgrZZNanHV8S-2kPOMJtmWZk-dZ7H",
+      "driveFileId": "1Jv2AzTw8q7a4fPKHviNstUIhBQ6BoNM3",
       "title": "Saree — Design 14",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1hDfDgrZZNanHV8S-2kPOMJtmWZk-dZ7H.webp",
-      "full": "images/full/saree/1hDfDgrZZNanHV8S-2kPOMJtmWZk-dZ7H.webp",
-      "width": 1122,
-      "height": 1402,
+      "thumb": "images/thumbs/saree/1Jv2AzTw8q7a4fPKHviNstUIhBQ6BoNM3.webp",
+      "full": "images/full/saree/1Jv2AzTw8q7a4fPKHviNstUIhBQ6BoNM3.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "E321DED2-51B6-4DA1-A0AD-5AFC8ECA656C.PNG",
-      "curatedOrder": 99
+      "sourceFile": "E1BF2F63-390C-49E3-933F-7E3BDF840738.png",
+      "curatedOrder": 103
     },
     {
       "id": "RFA-SHT-14",
@@ -1836,7 +1915,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "7A8E2FCE-55D1-44F3-99D0-7EF5C1E9164F.png",
-      "curatedOrder": 100
+      "curatedOrder": 104
     },
     {
       "id": "RFA-TSH-14",
@@ -1853,7 +1932,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "65E5F86E-54D9-45FC-AEB3-AD0E1FF37031.png",
-      "curatedOrder": 101
+      "curatedOrder": 105
     },
     {
       "id": "RFA-CRD-15",
@@ -1870,41 +1949,41 @@
       "fabric": "Soft premium cotton & linen-blend tailored two-piece sets painted by hand.",
       "care": "Mild cold hand wash inside out with gentle detergent. Shade dry; iron on reverse over painted artwork.",
       "sourceFile": "F081C849-D87D-4E82-87B9-08FFC047BFA8.png",
-      "curatedOrder": 102
+      "curatedOrder": 106
     },
     {
       "id": "RFA-ONE-15",
       "code": "RFA-ONE-15",
-      "driveFileId": "160E6CdblPgM5kD8woC4VAQ23BBynn0sK",
+      "driveFileId": "1FzqsyS2VC8Dq2_bMRJI9zhtykCCFqvn9",
       "title": "one peiece — Design 15",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/160E6CdblPgM5kD8woC4VAQ23BBynn0sK.webp",
-      "full": "images/full/one-peiece/160E6CdblPgM5kD8woC4VAQ23BBynn0sK.webp",
-      "width": 810,
+      "thumb": "images/thumbs/one-peiece/1FzqsyS2VC8Dq2_bMRJI9zhtykCCFqvn9.webp",
+      "full": "images/full/one-peiece/1FzqsyS2VC8Dq2_bMRJI9zhtykCCFqvn9.webp",
+      "width": 1033,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "84F7CC4C-1C26-4C66-96E5-4CE382037899.png",
-      "curatedOrder": 103
+      "sourceFile": "79AFE8CA-F00C-4024-8007-8A477E0E23F1.png",
+      "curatedOrder": 107
     },
     {
       "id": "RFA-SAR-15",
       "code": "RFA-SAR-15",
-      "driveFileId": "1Ru1G33M3LyTg00nTVt6QWZn4v3O6nigN",
+      "driveFileId": "1hDfDgrZZNanHV8S-2kPOMJtmWZk-dZ7H",
       "title": "Saree — Design 15",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1Ru1G33M3LyTg00nTVt6QWZn4v3O6nigN.webp",
-      "full": "images/full/saree/1Ru1G33M3LyTg00nTVt6QWZn4v3O6nigN.webp",
-      "width": 960,
-      "height": 1440,
+      "thumb": "images/thumbs/saree/1hDfDgrZZNanHV8S-2kPOMJtmWZk-dZ7H.webp",
+      "full": "images/full/saree/1hDfDgrZZNanHV8S-2kPOMJtmWZk-dZ7H.webp",
+      "width": 1122,
+      "height": 1402,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "E7B6BA62-44E7-4BBF-86F5-41C8D735EC8B.PNG",
-      "curatedOrder": 104
+      "sourceFile": "E321DED2-51B6-4DA1-A0AD-5AFC8ECA656C.PNG",
+      "curatedOrder": 108
     },
     {
       "id": "RFA-SHT-15",
@@ -1921,7 +2000,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "94B2E947-FE4A-46EF-94E1-9E0E9177BEE6.png",
-      "curatedOrder": 105
+      "curatedOrder": 109
     },
     {
       "id": "RFA-TSH-15",
@@ -1938,41 +2017,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "72FA32E8-A5C2-43E4-9B33-EB2DA5B92294.png",
-      "curatedOrder": 106
+      "curatedOrder": 110
     },
     {
       "id": "RFA-ONE-16",
       "code": "RFA-ONE-16",
-      "driveFileId": "1fE4ACLvF__CCBqxEtIdi17wYAVE-sc7b",
+      "driveFileId": "160E6CdblPgM5kD8woC4VAQ23BBynn0sK",
       "title": "one peiece — Design 16",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1fE4ACLvF__CCBqxEtIdi17wYAVE-sc7b.webp",
-      "full": "images/full/one-peiece/1fE4ACLvF__CCBqxEtIdi17wYAVE-sc7b.webp",
+      "thumb": "images/thumbs/one-peiece/160E6CdblPgM5kD8woC4VAQ23BBynn0sK.webp",
+      "full": "images/full/one-peiece/160E6CdblPgM5kD8woC4VAQ23BBynn0sK.webp",
       "width": 810,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "8656EAC5-AEC3-4C96-BE1C-9CEC72CEC674.png",
-      "curatedOrder": 107
+      "sourceFile": "84F7CC4C-1C26-4C66-96E5-4CE382037899.png",
+      "curatedOrder": 111
     },
     {
       "id": "RFA-SAR-16",
       "code": "RFA-SAR-16",
-      "driveFileId": "1fVRVyV78Rrv5H7k5y7LeQyk-PR6huDw4",
+      "driveFileId": "1YX6j6zL9l6N9BVSn3Nh2qZr4UDRHE2nW",
       "title": "Saree — Design 16",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1fVRVyV78Rrv5H7k5y7LeQyk-PR6huDw4.webp",
-      "full": "images/full/saree/1fVRVyV78Rrv5H7k5y7LeQyk-PR6huDw4.webp",
-      "width": 1080,
-      "height": 1440,
+      "thumb": "images/thumbs/saree/1YX6j6zL9l6N9BVSn3Nh2qZr4UDRHE2nW.webp",
+      "full": "images/full/saree/1YX6j6zL9l6N9BVSn3Nh2qZr4UDRHE2nW.webp",
+      "width": 1147,
+      "height": 1372,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "E81228C7-3440-43C1-9943-CC26F94E8FEB.PNG",
-      "curatedOrder": 108
+      "sourceFile": "E49D7984-E7A7-4658-95FF-C5506E432E8C.PNG",
+      "curatedOrder": 112
     },
     {
       "id": "RFA-SHT-16",
@@ -1989,7 +2068,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "9C68217A-9D3B-404A-AEC9-B692C101A7EF.png",
-      "curatedOrder": 109
+      "curatedOrder": 113
     },
     {
       "id": "RFA-TSH-16",
@@ -2006,41 +2085,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "78A0EA96-80D6-4720-81C6-360CABF74FDF.png",
-      "curatedOrder": 110
+      "curatedOrder": 114
     },
     {
       "id": "RFA-ONE-17",
       "code": "RFA-ONE-17",
-      "driveFileId": "1jgYwAna8p-SFlQ2gDe3XG0LZGuRPe3Rx",
+      "driveFileId": "1fE4ACLvF__CCBqxEtIdi17wYAVE-sc7b",
       "title": "one peiece — Design 17",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1jgYwAna8p-SFlQ2gDe3XG0LZGuRPe3Rx.webp",
-      "full": "images/full/one-peiece/1jgYwAna8p-SFlQ2gDe3XG0LZGuRPe3Rx.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/one-peiece/1fE4ACLvF__CCBqxEtIdi17wYAVE-sc7b.webp",
+      "full": "images/full/one-peiece/1fE4ACLvF__CCBqxEtIdi17wYAVE-sc7b.webp",
+      "width": 810,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "8D557940-8FAD-4D8D-8C51-8DBFA11A0D5A.png",
-      "curatedOrder": 111
+      "sourceFile": "8656EAC5-AEC3-4C96-BE1C-9CEC72CEC674.png",
+      "curatedOrder": 115
     },
     {
       "id": "RFA-SAR-17",
       "code": "RFA-SAR-17",
-      "driveFileId": "1h8o5pfN2-OXG9Y7Xm7VLbgHCp3dlcOrN",
+      "driveFileId": "1Ru1G33M3LyTg00nTVt6QWZn4v3O6nigN",
       "title": "Saree — Design 17",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1h8o5pfN2-OXG9Y7Xm7VLbgHCp3dlcOrN.webp",
-      "full": "images/full/saree/1h8o5pfN2-OXG9Y7Xm7VLbgHCp3dlcOrN.webp",
+      "thumb": "images/thumbs/saree/1Ru1G33M3LyTg00nTVt6QWZn4v3O6nigN.webp",
+      "full": "images/full/saree/1Ru1G33M3LyTg00nTVt6QWZn4v3O6nigN.webp",
       "width": 960,
       "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "EBDCFCA9-B78A-45A3-A793-C7A56E808B59.PNG",
-      "curatedOrder": 112
+      "sourceFile": "E7B6BA62-44E7-4BBF-86F5-41C8D735EC8B.PNG",
+      "curatedOrder": 116
     },
     {
       "id": "RFA-SHT-17",
@@ -2057,7 +2136,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "AE5ABA0F-E2AB-401F-8DC9-6302C98417F4.png",
-      "curatedOrder": 113
+      "curatedOrder": 117
     },
     {
       "id": "RFA-TSH-17",
@@ -2074,41 +2153,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "8538FB1F-BBAE-4042-8C61-012EF4A9BE2F.png",
-      "curatedOrder": 114
+      "curatedOrder": 118
     },
     {
       "id": "RFA-ONE-18",
       "code": "RFA-ONE-18",
-      "driveFileId": "1jRsoRsUHkarHk4BynuViMsnUf0b0wP_S",
+      "driveFileId": "1jgYwAna8p-SFlQ2gDe3XG0LZGuRPe3Rx",
       "title": "one peiece — Design 18",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1jRsoRsUHkarHk4BynuViMsnUf0b0wP_S.webp",
-      "full": "images/full/one-peiece/1jRsoRsUHkarHk4BynuViMsnUf0b0wP_S.webp",
+      "thumb": "images/thumbs/one-peiece/1jgYwAna8p-SFlQ2gDe3XG0LZGuRPe3Rx.webp",
+      "full": "images/full/one-peiece/1jgYwAna8p-SFlQ2gDe3XG0LZGuRPe3Rx.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "A4289051-6462-4E29-99CA-53D0437D52AF.png",
-      "curatedOrder": 115
+      "sourceFile": "8D557940-8FAD-4D8D-8C51-8DBFA11A0D5A.png",
+      "curatedOrder": 119
     },
     {
       "id": "RFA-SAR-18",
       "code": "RFA-SAR-18",
-      "driveFileId": "1dwB9BTJnBEIvJQGSNIRgXjQuBp6864eS",
+      "driveFileId": "1fVRVyV78Rrv5H7k5y7LeQyk-PR6huDw4",
       "title": "Saree — Design 18",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1dwB9BTJnBEIvJQGSNIRgXjQuBp6864eS.webp",
-      "full": "images/full/saree/1dwB9BTJnBEIvJQGSNIRgXjQuBp6864eS.webp",
-      "width": 1122,
-      "height": 1402,
+      "thumb": "images/thumbs/saree/1fVRVyV78Rrv5H7k5y7LeQyk-PR6huDw4.webp",
+      "full": "images/full/saree/1fVRVyV78Rrv5H7k5y7LeQyk-PR6huDw4.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "F0FC2C7B-AEDD-4E4D-B41F-463ECDC7E597.PNG",
-      "curatedOrder": 116
+      "sourceFile": "E81228C7-3440-43C1-9943-CC26F94E8FEB.PNG",
+      "curatedOrder": 120
     },
     {
       "id": "RFA-SHT-18",
@@ -2125,7 +2204,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "AE8D3F97-62D6-48BD-8460-626E962549ED.png",
-      "curatedOrder": 117
+      "curatedOrder": 121
     },
     {
       "id": "RFA-TSH-18",
@@ -2142,41 +2221,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "93E72CCC-3C38-436F-9546-812A972D30EC.png",
-      "curatedOrder": 118
+      "curatedOrder": 122
     },
     {
       "id": "RFA-ONE-19",
       "code": "RFA-ONE-19",
-      "driveFileId": "1wT2-mOY7nOOUayMSvGt0SktJq8H2meB1",
+      "driveFileId": "1jRsoRsUHkarHk4BynuViMsnUf0b0wP_S",
       "title": "one peiece — Design 19",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1wT2-mOY7nOOUayMSvGt0SktJq8H2meB1.webp",
-      "full": "images/full/one-peiece/1wT2-mOY7nOOUayMSvGt0SktJq8H2meB1.webp",
-      "width": 1122,
-      "height": 1402,
+      "thumb": "images/thumbs/one-peiece/1jRsoRsUHkarHk4BynuViMsnUf0b0wP_S.webp",
+      "full": "images/full/one-peiece/1jRsoRsUHkarHk4BynuViMsnUf0b0wP_S.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "A8C8D4D6-833B-4292-9B6F-10F794DAD646.png",
-      "curatedOrder": 119
+      "sourceFile": "A4289051-6462-4E29-99CA-53D0437D52AF.png",
+      "curatedOrder": 123
     },
     {
       "id": "RFA-SAR-19",
       "code": "RFA-SAR-19",
-      "driveFileId": "1gQnO0M5jo4tMu9H87_gs_DfDMdAzN7w7",
+      "driveFileId": "1h8o5pfN2-OXG9Y7Xm7VLbgHCp3dlcOrN",
       "title": "Saree — Design 19",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1gQnO0M5jo4tMu9H87_gs_DfDMdAzN7w7.webp",
-      "full": "images/full/saree/1gQnO0M5jo4tMu9H87_gs_DfDMdAzN7w7.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/saree/1h8o5pfN2-OXG9Y7Xm7VLbgHCp3dlcOrN.webp",
+      "full": "images/full/saree/1h8o5pfN2-OXG9Y7Xm7VLbgHCp3dlcOrN.webp",
+      "width": 960,
       "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "F3789806-15CE-4470-8793-E2F1F40004A1.PNG",
-      "curatedOrder": 120
+      "sourceFile": "EBDCFCA9-B78A-45A3-A793-C7A56E808B59.PNG",
+      "curatedOrder": 124
     },
     {
       "id": "RFA-SHT-19",
@@ -2193,7 +2272,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "AF4D52D2-43CB-4274-9438-F0056516CA8C.png",
-      "curatedOrder": 121
+      "curatedOrder": 125
     },
     {
       "id": "RFA-TSH-19",
@@ -2210,41 +2289,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "967B6021-CCB4-4A63-96F3-5EB885269D79.png",
-      "curatedOrder": 122
+      "curatedOrder": 126
     },
     {
       "id": "RFA-ONE-20",
       "code": "RFA-ONE-20",
-      "driveFileId": "18vJWbVa7ZDrh0BT3VJ9N9VBVF_MMIkIw",
+      "driveFileId": "1wT2-mOY7nOOUayMSvGt0SktJq8H2meB1",
       "title": "one peiece — Design 20",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/18vJWbVa7ZDrh0BT3VJ9N9VBVF_MMIkIw.webp",
-      "full": "images/full/one-peiece/18vJWbVa7ZDrh0BT3VJ9N9VBVF_MMIkIw.webp",
+      "thumb": "images/thumbs/one-peiece/1wT2-mOY7nOOUayMSvGt0SktJq8H2meB1.webp",
+      "full": "images/full/one-peiece/1wT2-mOY7nOOUayMSvGt0SktJq8H2meB1.webp",
       "width": 1122,
       "height": 1402,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "ADE580B9-1660-485A-A9CA-F819831C04C7.png",
-      "curatedOrder": 123
+      "sourceFile": "A8C8D4D6-833B-4292-9B6F-10F794DAD646.png",
+      "curatedOrder": 127
     },
     {
       "id": "RFA-SAR-20",
       "code": "RFA-SAR-20",
-      "driveFileId": "1L3EKxH-y-GqpU9Z32nO9ncj0qnnKQT2c",
+      "driveFileId": "1dwB9BTJnBEIvJQGSNIRgXjQuBp6864eS",
       "title": "Saree — Design 20",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1L3EKxH-y-GqpU9Z32nO9ncj0qnnKQT2c.webp",
-      "full": "images/full/saree/1L3EKxH-y-GqpU9Z32nO9ncj0qnnKQT2c.webp",
-      "width": 1210,
-      "height": 1300,
+      "thumb": "images/thumbs/saree/1dwB9BTJnBEIvJQGSNIRgXjQuBp6864eS.webp",
+      "full": "images/full/saree/1dwB9BTJnBEIvJQGSNIRgXjQuBp6864eS.webp",
+      "width": 1122,
+      "height": 1402,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "FBD63ABB-7689-4F93-834F-A52BACD80E74.png",
-      "curatedOrder": 124
+      "sourceFile": "F0FC2C7B-AEDD-4E4D-B41F-463ECDC7E597.PNG",
+      "curatedOrder": 128
     },
     {
       "id": "RFA-SHT-20",
@@ -2261,7 +2340,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "B7230F6B-785B-4CA5-8500-FECBB14728AC.png",
-      "curatedOrder": 125
+      "curatedOrder": 129
     },
     {
       "id": "RFA-TSH-20",
@@ -2278,41 +2357,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "AD7FD620-E5ED-49A2-9BC8-74692A7EE44B.png",
-      "curatedOrder": 126
+      "curatedOrder": 130
     },
     {
       "id": "RFA-ONE-21",
       "code": "RFA-ONE-21",
-      "driveFileId": "1EhBvki0Ne1NbGHzXc0kTTH2UhmgJGLnw",
+      "driveFileId": "18vJWbVa7ZDrh0BT3VJ9N9VBVF_MMIkIw",
       "title": "one peiece — Design 21",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1EhBvki0Ne1NbGHzXc0kTTH2UhmgJGLnw.webp",
-      "full": "images/full/one-peiece/1EhBvki0Ne1NbGHzXc0kTTH2UhmgJGLnw.webp",
-      "width": 1025,
-      "height": 1440,
+      "thumb": "images/thumbs/one-peiece/18vJWbVa7ZDrh0BT3VJ9N9VBVF_MMIkIw.webp",
+      "full": "images/full/one-peiece/18vJWbVa7ZDrh0BT3VJ9N9VBVF_MMIkIw.webp",
+      "width": 1122,
+      "height": 1402,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "C9BF2774-F4FB-4434-BB21-190406AF9724.png",
-      "curatedOrder": 127
+      "sourceFile": "ADE580B9-1660-485A-A9CA-F819831C04C7.png",
+      "curatedOrder": 131
     },
     {
       "id": "RFA-SAR-21",
       "code": "RFA-SAR-21",
-      "driveFileId": "13FjELFzQRtbynO8iXOxcyre6S83Xhahv",
+      "driveFileId": "1gQnO0M5jo4tMu9H87_gs_DfDMdAzN7w7",
       "title": "Saree — Design 21",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/13FjELFzQRtbynO8iXOxcyre6S83Xhahv.webp",
-      "full": "images/full/saree/13FjELFzQRtbynO8iXOxcyre6S83Xhahv.webp",
+      "thumb": "images/thumbs/saree/1gQnO0M5jo4tMu9H87_gs_DfDMdAzN7w7.webp",
+      "full": "images/full/saree/1gQnO0M5jo4tMu9H87_gs_DfDMdAzN7w7.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "IMG_7737.HEIC",
-      "curatedOrder": 128
+      "sourceFile": "F3789806-15CE-4470-8793-E2F1F40004A1.PNG",
+      "curatedOrder": 132
     },
     {
       "id": "RFA-SHT-21",
@@ -2329,7 +2408,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "BC1A8935-E85F-475E-9D33-BB8F0F280785.png",
-      "curatedOrder": 129
+      "curatedOrder": 133
     },
     {
       "id": "RFA-TSH-21",
@@ -2346,41 +2425,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "B2EFBF68-74E5-4383-82B0-45CF0DEEE825.png",
-      "curatedOrder": 130
+      "curatedOrder": 134
     },
     {
       "id": "RFA-ONE-22",
       "code": "RFA-ONE-22",
-      "driveFileId": "1Vh6rWGKYhFb14bohwA9-pRQdO2W2sEyK",
+      "driveFileId": "1EhBvki0Ne1NbGHzXc0kTTH2UhmgJGLnw",
       "title": "one peiece — Design 22",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1Vh6rWGKYhFb14bohwA9-pRQdO2W2sEyK.webp",
-      "full": "images/full/one-peiece/1Vh6rWGKYhFb14bohwA9-pRQdO2W2sEyK.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/one-peiece/1EhBvki0Ne1NbGHzXc0kTTH2UhmgJGLnw.webp",
+      "full": "images/full/one-peiece/1EhBvki0Ne1NbGHzXc0kTTH2UhmgJGLnw.webp",
+      "width": 1025,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "E47636C8-37D7-4669-AE49-E9DE66198FD8.png",
-      "curatedOrder": 131
+      "sourceFile": "C9BF2774-F4FB-4434-BB21-190406AF9724.png",
+      "curatedOrder": 135
     },
     {
       "id": "RFA-SAR-22",
       "code": "RFA-SAR-22",
-      "driveFileId": "13fvlIppMuTitO8lhSqbsIaMGldhcEMRM",
+      "driveFileId": "1FDTgHRMpCSYkyu8ZNE8T_D60J6lfpgfr",
       "title": "Saree — Design 22",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/13fvlIppMuTitO8lhSqbsIaMGldhcEMRM.webp",
-      "full": "images/full/saree/13fvlIppMuTitO8lhSqbsIaMGldhcEMRM.webp",
-      "width": 720,
-      "height": 809,
+      "thumb": "images/thumbs/saree/1FDTgHRMpCSYkyu8ZNE8T_D60J6lfpgfr.webp",
+      "full": "images/full/saree/1FDTgHRMpCSYkyu8ZNE8T_D60J6lfpgfr.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "IMG_9405.JPG",
-      "curatedOrder": 132
+      "sourceFile": "FA37F361-66A8-47F0-B0CD-B7FEF9A7325A.PNG",
+      "curatedOrder": 136
     },
     {
       "id": "RFA-SHT-22",
@@ -2397,7 +2476,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "BEEC093A-0067-4BE9-8BCF-4B858F076942.png",
-      "curatedOrder": 133
+      "curatedOrder": 137
     },
     {
       "id": "RFA-TSH-22",
@@ -2414,41 +2493,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "B707A187-D35B-4A97-A11C-625718CD5A68.png",
-      "curatedOrder": 134
+      "curatedOrder": 138
     },
     {
       "id": "RFA-ONE-23",
       "code": "RFA-ONE-23",
-      "driveFileId": "1cV-V_gs7Ps8HBm4qTED3LBUnZ_uOAOBN",
+      "driveFileId": "1Vh6rWGKYhFb14bohwA9-pRQdO2W2sEyK",
       "title": "one peiece — Design 23",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1cV-V_gs7Ps8HBm4qTED3LBUnZ_uOAOBN.webp",
-      "full": "images/full/one-peiece/1cV-V_gs7Ps8HBm4qTED3LBUnZ_uOAOBN.webp",
-      "width": 958,
+      "thumb": "images/thumbs/one-peiece/1Vh6rWGKYhFb14bohwA9-pRQdO2W2sEyK.webp",
+      "full": "images/full/one-peiece/1Vh6rWGKYhFb14bohwA9-pRQdO2W2sEyK.webp",
+      "width": 1080,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "E906936F-89EC-4C67-8325-F0EDCB108DC8.png",
-      "curatedOrder": 135
+      "sourceFile": "E47636C8-37D7-4669-AE49-E9DE66198FD8.png",
+      "curatedOrder": 139
     },
     {
       "id": "RFA-SAR-23",
       "code": "RFA-SAR-23",
-      "driveFileId": "1mBPnSrbCDnnWaKNiX4cUpYnMeDJD56qx",
+      "driveFileId": "1L3EKxH-y-GqpU9Z32nO9ncj0qnnKQT2c",
       "title": "Saree — Design 23",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1mBPnSrbCDnnWaKNiX4cUpYnMeDJD56qx.webp",
-      "full": "images/full/saree/1mBPnSrbCDnnWaKNiX4cUpYnMeDJD56qx.webp",
-      "width": 400,
-      "height": 400,
+      "thumb": "images/thumbs/saree/1L3EKxH-y-GqpU9Z32nO9ncj0qnnKQT2c.webp",
+      "full": "images/full/saree/1L3EKxH-y-GqpU9Z32nO9ncj0qnnKQT2c.webp",
+      "width": 1210,
+      "height": 1300,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "IMG_9406.JPG",
-      "curatedOrder": 136
+      "sourceFile": "FBD63ABB-7689-4F93-834F-A52BACD80E74.png",
+      "curatedOrder": 140
     },
     {
       "id": "RFA-SHT-23",
@@ -2465,7 +2544,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "C0CDBAE9-0B16-4DA2-A813-EDB3BA71A386.png",
-      "curatedOrder": 137
+      "curatedOrder": 141
     },
     {
       "id": "RFA-TSH-23",
@@ -2482,41 +2561,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "C6DB8D20-E435-42CC-BE79-2A50F1271A2F.png",
-      "curatedOrder": 138
+      "curatedOrder": 142
     },
     {
       "id": "RFA-ONE-24",
       "code": "RFA-ONE-24",
-      "driveFileId": "1rB8odPH7fMlQKZhxaqSW0MysetUmeeSo",
+      "driveFileId": "1cV-V_gs7Ps8HBm4qTED3LBUnZ_uOAOBN",
       "title": "one peiece — Design 24",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1rB8odPH7fMlQKZhxaqSW0MysetUmeeSo.webp",
-      "full": "images/full/one-peiece/1rB8odPH7fMlQKZhxaqSW0MysetUmeeSo.webp",
-      "width": 1080,
+      "thumb": "images/thumbs/one-peiece/1cV-V_gs7Ps8HBm4qTED3LBUnZ_uOAOBN.webp",
+      "full": "images/full/one-peiece/1cV-V_gs7Ps8HBm4qTED3LBUnZ_uOAOBN.webp",
+      "width": 958,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "f3495f9a-3cf6-4d58-8f74-ae0f2f6c5cd0.jpg",
-      "curatedOrder": 139
+      "sourceFile": "E906936F-89EC-4C67-8325-F0EDCB108DC8.png",
+      "curatedOrder": 143
     },
     {
       "id": "RFA-SAR-24",
       "code": "RFA-SAR-24",
-      "driveFileId": "1Y79LTaB6j2BeygxAQfGTc31zjRIE356S",
+      "driveFileId": "13FjELFzQRtbynO8iXOxcyre6S83Xhahv",
       "title": "Saree — Design 24",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1Y79LTaB6j2BeygxAQfGTc31zjRIE356S.webp",
-      "full": "images/full/saree/1Y79LTaB6j2BeygxAQfGTc31zjRIE356S.webp",
-      "width": 1200,
-      "height": 896,
+      "thumb": "images/thumbs/saree/13FjELFzQRtbynO8iXOxcyre6S83Xhahv.webp",
+      "full": "images/full/saree/13FjELFzQRtbynO8iXOxcyre6S83Xhahv.webp",
+      "width": 1080,
+      "height": 1440,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "IMG_9407.PNG",
-      "curatedOrder": 140
+      "sourceFile": "IMG_7737.HEIC",
+      "curatedOrder": 144
     },
     {
       "id": "RFA-SHT-24",
@@ -2533,7 +2612,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "CCC3A71C-D10C-42DB-B287-C1928B0FDAAD.png",
-      "curatedOrder": 141
+      "curatedOrder": 145
     },
     {
       "id": "RFA-TSH-24",
@@ -2550,41 +2629,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "CC7654A8-F1FE-4C75-A601-77F528638C41.png",
-      "curatedOrder": 142
+      "curatedOrder": 146
     },
     {
       "id": "RFA-ONE-25",
       "code": "RFA-ONE-25",
-      "driveFileId": "1t1iuTBEAmxkgOgIVh24YpcUeJPHv1Hdi",
+      "driveFileId": "1rB8odPH7fMlQKZhxaqSW0MysetUmeeSo",
       "title": "one peiece — Design 25",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/1t1iuTBEAmxkgOgIVh24YpcUeJPHv1Hdi.webp",
-      "full": "images/full/one-peiece/1t1iuTBEAmxkgOgIVh24YpcUeJPHv1Hdi.webp",
+      "thumb": "images/thumbs/one-peiece/1rB8odPH7fMlQKZhxaqSW0MysetUmeeSo.webp",
+      "full": "images/full/one-peiece/1rB8odPH7fMlQKZhxaqSW0MysetUmeeSo.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "F50C8974-4300-4C33-9C36-E487FAF037AA.png",
-      "curatedOrder": 143
+      "sourceFile": "f3495f9a-3cf6-4d58-8f74-ae0f2f6c5cd0.jpg",
+      "curatedOrder": 147
     },
     {
       "id": "RFA-SAR-25",
       "code": "RFA-SAR-25",
-      "driveFileId": "1ZQSR-Rmywvm__kV_iamA4rgz1l8Nr_hP",
+      "driveFileId": "13fvlIppMuTitO8lhSqbsIaMGldhcEMRM",
       "title": "Saree — Design 25",
       "category": "Saree",
       "categorySlug": "saree",
       "sizing": "saree",
-      "thumb": "images/thumbs/saree/1ZQSR-Rmywvm__kV_iamA4rgz1l8Nr_hP.webp",
-      "full": "images/full/saree/1ZQSR-Rmywvm__kV_iamA4rgz1l8Nr_hP.webp",
-      "width": 1136,
-      "height": 1440,
+      "thumb": "images/thumbs/saree/13fvlIppMuTitO8lhSqbsIaMGldhcEMRM.webp",
+      "full": "images/full/saree/13fvlIppMuTitO8lhSqbsIaMGldhcEMRM.webp",
+      "width": 720,
+      "height": 809,
       "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
       "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
-      "sourceFile": "IMG_9547.PNG",
-      "curatedOrder": 144
+      "sourceFile": "IMG_9405.JPG",
+      "curatedOrder": 148
     },
     {
       "id": "RFA-SHT-25",
@@ -2601,7 +2680,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "CE7E42F5-0B29-415D-95E5-4C4DE89A0403.png",
-      "curatedOrder": 145
+      "curatedOrder": 149
     },
     {
       "id": "RFA-TSH-25",
@@ -2618,24 +2697,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "D469D02C-99FC-4552-81B0-F03D4C41C56F.png",
-      "curatedOrder": 146
+      "curatedOrder": 150
     },
     {
       "id": "RFA-ONE-26",
       "code": "RFA-ONE-26",
-      "driveFileId": "15myf118O1CJdpSpzzVE9DhAglXqQsTut",
+      "driveFileId": "1t1iuTBEAmxkgOgIVh24YpcUeJPHv1Hdi",
       "title": "one peiece — Design 26",
       "category": "one peiece",
       "categorySlug": "one-peiece",
       "sizing": "apparel",
-      "thumb": "images/thumbs/one-peiece/15myf118O1CJdpSpzzVE9DhAglXqQsTut.webp",
-      "full": "images/full/one-peiece/15myf118O1CJdpSpzzVE9DhAglXqQsTut.webp",
+      "thumb": "images/thumbs/one-peiece/1t1iuTBEAmxkgOgIVh24YpcUeJPHv1Hdi.webp",
+      "full": "images/full/one-peiece/1t1iuTBEAmxkgOgIVh24YpcUeJPHv1Hdi.webp",
       "width": 1080,
       "height": 1440,
       "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
       "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
-      "sourceFile": "IMG_1026.DNG",
-      "curatedOrder": 147
+      "sourceFile": "F50C8974-4300-4C33-9C36-E487FAF037AA.png",
+      "curatedOrder": 151
+    },
+    {
+      "id": "RFA-SAR-26",
+      "code": "RFA-SAR-26",
+      "driveFileId": "1mBPnSrbCDnnWaKNiX4cUpYnMeDJD56qx",
+      "title": "Saree — Design 26",
+      "category": "Saree",
+      "categorySlug": "saree",
+      "sizing": "saree",
+      "thumb": "images/thumbs/saree/1mBPnSrbCDnnWaKNiX4cUpYnMeDJD56qx.webp",
+      "full": "images/full/saree/1mBPnSrbCDnnWaKNiX4cUpYnMeDJD56qx.webp",
+      "width": 400,
+      "height": 400,
+      "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
+      "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
+      "sourceFile": "IMG_9406.JPG",
+      "curatedOrder": 152
     },
     {
       "id": "RFA-SHT-26",
@@ -2652,7 +2748,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "D2BFA94F-853F-4E26-B997-F3E0CF145C78.png",
-      "curatedOrder": 148
+      "curatedOrder": 153
     },
     {
       "id": "RFA-TSH-26",
@@ -2669,7 +2765,41 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "E323C1B6-03C1-4F37-8B4D-4DAAF3102C4A.png",
-      "curatedOrder": 149
+      "curatedOrder": 154
+    },
+    {
+      "id": "RFA-ONE-27",
+      "code": "RFA-ONE-27",
+      "driveFileId": "15myf118O1CJdpSpzzVE9DhAglXqQsTut",
+      "title": "one peiece — Design 27",
+      "category": "one peiece",
+      "categorySlug": "one-peiece",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/one-peiece/15myf118O1CJdpSpzzVE9DhAglXqQsTut.webp",
+      "full": "images/full/one-peiece/15myf118O1CJdpSpzzVE9DhAglXqQsTut.webp",
+      "width": 1080,
+      "height": 1440,
+      "fabric": "Lightweight breathable cotton & rayon silhouettes finished with wash-fast fabric art.",
+      "care": "Gentle cold wash separately, inside out. Do not wring or bleach; steam or iron on reverse.",
+      "sourceFile": "IMG_1026.DNG",
+      "curatedOrder": 155
+    },
+    {
+      "id": "RFA-SAR-27",
+      "code": "RFA-SAR-27",
+      "driveFileId": "1Y79LTaB6j2BeygxAQfGTc31zjRIE356S",
+      "title": "Saree — Design 27",
+      "category": "Saree",
+      "categorySlug": "saree",
+      "sizing": "saree",
+      "thumb": "images/thumbs/saree/1Y79LTaB6j2BeygxAQfGTc31zjRIE356S.webp",
+      "full": "images/full/saree/1Y79LTaB6j2BeygxAQfGTc31zjRIE356S.webp",
+      "width": 1200,
+      "height": 896,
+      "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
+      "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
+      "sourceFile": "IMG_9407.PNG",
+      "curatedOrder": 156
     },
     {
       "id": "RFA-SHT-27",
@@ -2686,7 +2816,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "D96E0816-6D6A-4962-8AD7-AE04CFFCA17E.png",
-      "curatedOrder": 150
+      "curatedOrder": 157
     },
     {
       "id": "RFA-TSH-27",
@@ -2703,7 +2833,24 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "E68360C6-896B-48EA-816E-DDB260844FCE.png",
-      "curatedOrder": 151
+      "curatedOrder": 158
+    },
+    {
+      "id": "RFA-SAR-28",
+      "code": "RFA-SAR-28",
+      "driveFileId": "1ZQSR-Rmywvm__kV_iamA4rgz1l8Nr_hP",
+      "title": "Saree — Design 28",
+      "category": "Saree",
+      "categorySlug": "saree",
+      "sizing": "saree",
+      "thumb": "images/thumbs/saree/1ZQSR-Rmywvm__kV_iamA4rgz1l8Nr_hP.webp",
+      "full": "images/full/saree/1ZQSR-Rmywvm__kV_iamA4rgz1l8Nr_hP.webp",
+      "width": 1136,
+      "height": 1440,
+      "fabric": "Breathable handloom cotton, mulmul, or organza with hand-painted textile pigments.",
+      "care": "Gentle dry clean recommended for first wash; soft cold hand wash separately thereafter. Iron on reverse.",
+      "sourceFile": "IMG_9547.PNG",
+      "curatedOrder": 159
     },
     {
       "id": "RFA-SHT-28",
@@ -2720,7 +2867,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "DF41EC1E-8BB2-4BA1-A427-602C46206C56.png",
-      "curatedOrder": 152
+      "curatedOrder": 160
     },
     {
       "id": "RFA-TSH-28",
@@ -2737,7 +2884,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "e6fad500-8194-4c63-a2c0-38feca1a0c5d.jpg",
-      "curatedOrder": 153
+      "curatedOrder": 161
     },
     {
       "id": "RFA-SHT-29",
@@ -2754,7 +2901,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "E59DDE77-B4E0-4E92-9A84-A3108F5B4C73.png",
-      "curatedOrder": 154
+      "curatedOrder": 162
     },
     {
       "id": "RFA-TSH-29",
@@ -2771,7 +2918,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "E95350C3-229B-4423-9C22-ACC7CEF452F7.png",
-      "curatedOrder": 155
+      "curatedOrder": 163
     },
     {
       "id": "RFA-SHT-30",
@@ -2788,7 +2935,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "E8EF55DE-427C-4162-8C2E-515FA5430FBD.png",
-      "curatedOrder": 156
+      "curatedOrder": 164
     },
     {
       "id": "RFA-TSH-30",
@@ -2805,7 +2952,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "EF144C13-7319-4436-9DA6-BF7B60BEF074.png",
-      "curatedOrder": 157
+      "curatedOrder": 165
     },
     {
       "id": "RFA-SHT-31",
@@ -2822,7 +2969,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "F25DE223-0A49-4749-91F9-62108900862B.PNG",
-      "curatedOrder": 158
+      "curatedOrder": 166
     },
     {
       "id": "RFA-TSH-31",
@@ -2839,7 +2986,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "F2A6C659-872F-4D4F-81E0-D9FB750481DC.png",
-      "curatedOrder": 159
+      "curatedOrder": 167
     },
     {
       "id": "RFA-SHT-32",
@@ -2856,7 +3003,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "IMG_0106.JPG",
-      "curatedOrder": 160
+      "curatedOrder": 168
     },
     {
       "id": "RFA-TSH-32",
@@ -2873,7 +3020,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "F5065A38-43CC-4261-A442-43DECBA66D22.png",
-      "curatedOrder": 161
+      "curatedOrder": 169
     },
     {
       "id": "RFA-SHT-33",
@@ -2890,7 +3037,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "IMG_0422.DNG",
-      "curatedOrder": 162
+      "curatedOrder": 170
     },
     {
       "id": "RFA-TSH-33",
@@ -2907,7 +3054,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_0161.JPG",
-      "curatedOrder": 163
+      "curatedOrder": 171
     },
     {
       "id": "RFA-SHT-34",
@@ -2924,7 +3071,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "IMG_0433.DNG",
-      "curatedOrder": 164
+      "curatedOrder": 172
     },
     {
       "id": "RFA-TSH-34",
@@ -2941,7 +3088,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_0162.JPG",
-      "curatedOrder": 165
+      "curatedOrder": 173
     },
     {
       "id": "RFA-SHT-35",
@@ -2958,7 +3105,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "IMG_0434.DNG",
-      "curatedOrder": 166
+      "curatedOrder": 174
     },
     {
       "id": "RFA-TSH-35",
@@ -2975,7 +3122,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_1450.DNG",
-      "curatedOrder": 167
+      "curatedOrder": 175
     },
     {
       "id": "RFA-SHT-36",
@@ -2992,7 +3139,7 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "IMG_0437.DNG",
-      "curatedOrder": 168
+      "curatedOrder": 176
     },
     {
       "id": "RFA-TSH-36",
@@ -3009,7 +3156,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_1969.JPG",
-      "curatedOrder": 169
+      "curatedOrder": 177
     },
     {
       "id": "RFA-SHT-37",
@@ -3026,13 +3173,30 @@
       "fabric": "Crisp breathable cotton & cotton-linen shirting with hand-painted artistic detailing.",
       "care": "Cold gentle hand wash inside out. Avoid direct scrubbing on artwork; iron on reverse.",
       "sourceFile": "IMG_0438.DNG",
-      "curatedOrder": 170
+      "curatedOrder": 178
     },
     {
       "id": "RFA-TSH-37",
       "code": "RFA-TSH-37",
-      "driveFileId": "1bmkG8YsfwZdeZN16hAAiC33Xpwd-SbFY",
+      "driveFileId": "13YcaGiJmiwf63SUDcafQ_qQIDOFzun0a",
       "title": "Women’s T-Shirt — Design 37",
+      "category": "Women’s T-Shirt",
+      "categorySlug": "women-s-t-shirt",
+      "sizing": "apparel",
+      "thumb": "images/thumbs/women-s-t-shirt/13YcaGiJmiwf63SUDcafQ_qQIDOFzun0a.webp",
+      "full": "images/full/women-s-t-shirt/13YcaGiJmiwf63SUDcafQ_qQIDOFzun0a.webp",
+      "width": 896,
+      "height": 1195,
+      "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
+      "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
+      "sourceFile": "IMG_2193.PNG",
+      "curatedOrder": 179
+    },
+    {
+      "id": "RFA-TSH-38",
+      "code": "RFA-TSH-38",
+      "driveFileId": "1bmkG8YsfwZdeZN16hAAiC33Xpwd-SbFY",
+      "title": "Women’s T-Shirt — Design 38",
       "category": "Women’s T-Shirt",
       "categorySlug": "women-s-t-shirt",
       "sizing": "apparel",
@@ -3043,7 +3207,7 @@
       "fabric": "100% soft combed cotton jersey painted with flexible, crack-resistant fabric colors.",
       "care": "Cold gentle wash inside out. Dry in shade; iron on reverse side only.",
       "sourceFile": "IMG_2792.DNG",
-      "curatedOrder": 171
+      "curatedOrder": 180
     }
   ]
 }
